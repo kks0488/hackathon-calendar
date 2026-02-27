@@ -1,0 +1,120 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Hackathon Tracker//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hackathon Tracker
+X-WR-TIMEZONE:Asia/Seoul
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260323
+SUMMARY:LabLab AI Trading Agents ($50K)
+DESCRIPTION:AI Trading Agents with ERC-8004 Hackathon\n상금: $50,000\n형식: 온라인, 개인/팀\n테마: 자율 트레이딩/리스크/수익/보호 에이전트\n링크: https://lablab.ai/ai-hackathons/ai-trading-agents-erc-8004
+URL:https://lablab.ai/ai-hackathons/ai-trading-agents-erc-8004
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260316
+SUMMARY:Microsoft AI Dev Days ($10K) - DEADLINE 3/15
+DESCRIPTION:Microsoft AI Dev Days Hackathon\n상금: $10,000 + Microsoft Build 2026 티켓\n형식: 온라인\n링크: https://developer.microsoft.com/en-us/reactor/events/26647/
+URL:https://developer.microsoft.com/en-us/reactor/events/26647/
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260320
+SUMMARY:MLH Global Hack Week: Cloud (Free)
+DESCRIPTION:MLH Global Hack Week: Cloud\n형식: 온라인, 무료, 누구나\n링크: https://ghw.mlh.io/
+URL:https://ghw.mlh.io/
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260417
+SUMMARY:MLH Global Hack Week: APIs (Free)
+DESCRIPTION:MLH Global Hack Week: APIs\n형식: 온라인, 무료\n링크: https://ghw.mlh.io/
+URL:https://ghw.mlh.io/
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:Anthropic x USC Claude Hackathon - DEADLINE
+DESCRIPTION:Anthropic x USC Claude Hackathon\n마감: 2026-05-04 23:59\nClaude API 크레딧 제공\n적합: vibe-claude\n링크: https://anthropic-usc-hackathon.devpost.com/
+URL:https://anthropic-usc-hackathon.devpost.com/
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260515
+SUMMARY:MLH Global Hack Week: GenAI (Free)
+DESCRIPTION:MLH Global Hack Week: GenAI\n형식: 온라인, 무료\n적합: vibe-claude, mystats, aionda\n링크: https://ghw.mlh.io/
+URL:https://ghw.mlh.io/
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260529
+SUMMARY:DevNetwork AI+ML Hackathon
+DESCRIPTION:DevNetwork [AI + ML] Hackathon 2026\n기간: 온라인 5/11~28, 현장 5/27~28\n형식: 온라인 + South San Francisco\n링크: https://devnetwork-ai-ml-hack-2026.devpost.com/
+URL:https://devnetwork-ai-ml-hack-2026.devpost.com/
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260906
+SUMMARY:Vercel AI Gateway Hackathon ($2.5K) - OPEN
+DESCRIPTION:Vercel Global AI Gateway Hackathon\n상금: $2,500 / $1,000 / $500 AI 크레딧\n형식: 온라인, 개인/팀\n요구: Vercel + AI Gateway\n제출: X에 답글\n링크: https://vercel.com/i/ai-gateway-hackathon
+URL:https://vercel.com/i/ai-gateway-hackathon
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20260310T090000
+DTEND;TZID=Asia/Seoul:20260310T093000
+SUMMARY:REMINDER: Microsoft AI Dev Days 마감 D-5
+DESCRIPTION:Microsoft AI Dev Days Hackathon 제출 마감 5일 전!\n링크: https://developer.microsoft.com/en-us/reactor/events/26647/
+STATUS:CONFIRMED
+CATEGORIES:REMINDER
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:Microsoft AI Dev Days 마감 D-5
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20260315T090000
+DTEND;TZID=Asia/Seoul:20260315T093000
+SUMMARY:DEADLINE: Microsoft AI Dev Days 제출 마감일!
+DESCRIPTION:오늘이 마감입니다! 제출하세요!\n링크: https://developer.microsoft.com/en-us/reactor/events/26647/
+STATUS:CONFIRMED
+CATEGORIES:DEADLINE
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Microsoft AI Dev Days 마감 2시간 전!
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=Asia/Seoul:20260301T090000
+DTEND;TZID=Asia/Seoul:20260301T093000
+SUMMARY:MONTHLY: 해커톤 새로 올라온 거 체크
+DESCRIPTION:매월 1일 해커톤 플랫폼 체크!\n- Devpost: https://devpost.com/hackathons\n- LabLab: https://lablab.ai/ai-hackathons\n- MLH: https://mlh.com/seasons/2026/events\n- 콘테스트코리아: https://contestkorea.com
+RRULE:FREQ=MONTHLY;BYMONTHDAY=1;COUNT=10
+STATUS:CONFIRMED
+CATEGORIES:REMINDER
+BEGIN:VALARM
+TRIGGER:-PT0M
+ACTION:DISPLAY
+DESCRIPTION:해커톤 새로 올라온 거 체크할 시간!
+END:VALARM
+END:VEVENT
+END:VCALENDAR
