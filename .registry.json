@@ -1,0 +1,6 @@
+{
+  "type": "calendar-automation",
+  "role": "service",
+  "allocate_port": false,
+  "register_coolify": false
+}
