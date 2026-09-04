@@ -72,7 +72,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 DTEND;VALUE=DATE:20260906
 SUMMARY:Vercel AI Gateway Hackathon ($2.5K) - OPEN
-DESCRIPTION:Vercel Global AI Gateway Hackathon\n상금: $2,500 / $1,000 / $500 AI 크레딧\n형식: 온라인, 개인/팀\n요구: Vercel + AI Gateway\n제출: X에 답글\n링크: https://vercel.com/i/ai-gateway-hackathon
+DESCRIPTION:Vercel Global AI Gateway Hackathon\n상금: $2,500 / $1,000 / $500 AI 크레딧\n형식: 온라인, 개인/팀\n요구: Vercel + AI Gateway\n제출: X에 답글\n링크: https://vercel.com/i/ai-gateway-hackathon\n\n★ 가장 추천 - dailywave/mystats 이미 Vercel 배포 중
 URL:https://vercel.com/i/ai-gateway-hackathon
 STATUS:CONFIRMED
 CATEGORIES:HACKATHON
@@ -81,7 +81,7 @@ BEGIN:VEVENT
 DTSTART;TZID=Asia/Seoul:20260310T090000
 DTEND;TZID=Asia/Seoul:20260310T093000
 SUMMARY:REMINDER: Microsoft AI Dev Days 마감 D-5
-DESCRIPTION:Microsoft AI Dev Days Hackathon 제출 마감 5일 전!\n링크: https://developer.microsoft.com/en-us/reactor/events/26647/
+DESCRIPTION:Microsoft AI Dev Days Hackathon 제출 마감 5일 전!\n준비 상태 확인하고 제출 준비하세요.\n링크: https://developer.microsoft.com/en-us/reactor/events/26647/
 STATUS:CONFIRMED
 CATEGORIES:REMINDER
 BEGIN:VALARM
