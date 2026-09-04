@@ -14,9 +14,27 @@ if [ -f "$ENV_FILE" ]; then
     set +a
 fi
 
+: "${SYNOLOGY_CREDENTIAL_FILE:=/home/kkaemo/.config/synology/credentials.env}"
+if [ ! -f "$SYNOLOGY_CREDENTIAL_FILE" ] || [ -L "$SYNOLOGY_CREDENTIAL_FILE" ]; then
+    echo "Credential file is missing or is not a regular file" >&2
+    exit 1
+fi
+if [ "$(stat -c '%u' "$SYNOLOGY_CREDENTIAL_FILE")" != "$(id -u)" ]; then
+    echo "Credential file must be owned by the current user" >&2
+    exit 1
+fi
+case "$(stat -c '%a' "$SYNOLOGY_CREDENTIAL_FILE")" in
+    ?00) ;;
+    *) echo "Credential file permissions must deny group and other access" >&2; exit 1 ;;
+esac
+set -a
+# shellcheck disable=SC1090
+. "$SYNOLOGY_CREDENTIAL_FILE"
+set +a
+
 : "${NAS_WEBDAV_URL:?Set NAS_WEBDAV_URL in .env}"
-: "${NAS_WEBDAV_USER:?Set NAS_WEBDAV_USER in .env}"
-: "${NAS_WEBDAV_PASSWORD:?Set NAS_WEBDAV_PASSWORD in .env}"
+: "${NAS_WEBDAV_USER:?Set NAS_WEBDAV_USER in the credential file}"
+: "${NAS_WEBDAV_PASSWORD:?Set NAS_WEBDAV_PASSWORD in the credential file}"
 
 echo "=== Hackathon Calendar Sync ==="
 

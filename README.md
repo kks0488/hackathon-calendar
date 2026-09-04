@@ -17,6 +17,14 @@ https://raw.githubusercontent.com/kks0488/hackathon-calendar/main/hackathon-cale
 1. calendar.google.com > 다른 캘린더 + > URL로 추가
 2. 위 URL 붙여넣기
 
+## NAS WebDAV 동기화
+
+`sync-calendar.sh`의 URL과 실행 설정은 Git에서 제외된 프로젝트 `.env`에,
+WebDAV 사용자명과 비밀번호는 `/home/kkaemo/.config/synology/credentials.env`에
+둡니다. 자격증명 파일은 현재 사용자 소유의 일반 파일이며 권한이 600이어야
+합니다. DSM 운영 계정 대신 캘린더 경로에만 접근 가능한 별도 WebDAV 계정을
+사용합니다.
+
 ## 현재 트래킹 중인 해커톤
 
 | 해커톤 | 기간 | 상금 |
