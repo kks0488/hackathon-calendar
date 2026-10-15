@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 620" role="img" aria-labelledby="t d">
+<title id="t">hackathon-calendar demo</title>
+<desc id="d">Fetching the public .ics feed: 11 events, each a hackathon, deadline or reminder, then the NAS + GitHub sync script</desc>
+<style>
+text{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;font-size:17px;white-space:pre}
+@keyframes a0{0%,2.50%{opacity:0}3.30%,93%{opacity:1}97%,100%{opacity:0}}.l0{opacity:0;animation:a0 20s linear infinite}@keyframes t0{0%,3.30%{transform:translateX(0)}9.33%,100%{transform:translateX(920px)}}.c0{animation:t0 20s linear infinite}@keyframes a1{0%,11.00%{opacity:0}11.80%,93%{opacity:1}97%,100%{opacity:0}}.l1{opacity:0;animation:a1 20s linear infinite}@keyframes a2{0%,16.00%{opacity:0}16.80%,93%{opacity:1}97%,100%{opacity:0}}.l2{opacity:0;animation:a2 20s linear infinite}@keyframes t2{0%,16.80%{transform:translateX(0)}23.35%,100%{transform:translateX(920px)}}.c2{animation:t2 20s linear infinite}@keyframes a3{0%,25.00%{opacity:0}25.80%,93%{opacity:1}97%,100%{opacity:0}}.l3{opacity:0;animation:a3 20s linear infinite}@keyframes a4{0%,26.00%{opacity:0}26.80%,93%{opacity:1}97%,100%{opacity:0}}.l4{opacity:0;animation:a4 20s linear infinite}@keyframes a5{0%,27.00%{opacity:0}27.80%,93%{opacity:1}97%,100%{opacity:0}}.l5{opacity:0;animation:a5 20s linear infinite}@keyframes a6{0%,28.00%{opacity:0}28.80%,93%{opacity:1}97%,100%{opacity:0}}.l6{opacity:0;animation:a6 20s linear infinite}@keyframes a7{0%,29.00%{opacity:0}29.80%,93%{opacity:1}97%,100%{opacity:0}}.l7{opacity:0;animation:a7 20s linear infinite}@keyframes a8{0%,30.00%{opacity:0}30.80%,93%{opacity:1}97%,100%{opacity:0}}.l8{opacity:0;animation:a8 20s linear infinite}@keyframes a9{0%,31.00%{opacity:0}31.80%,93%{opacity:1}97%,100%{opacity:0}}.l9{opacity:0;animation:a9 20s linear infinite}@keyframes a10{0%,32.00%{opacity:0}32.80%,93%{opacity:1}97%,100%{opacity:0}}.l10{opacity:0;animation:a10 20s linear infinite}@keyframes a11{0%,40.00%{opacity:0}40.80%,93%{opacity:1}97%,100%{opacity:0}}.l11{opacity:0;animation:a11 20s linear infinite}@keyframes t11{0%,40.80%{transform:translateX(0)}43.15%,100%{transform:translateX(920px)}}.c11{animation:t11 20s linear infinite}@keyframes a12{0%,46.00%{opacity:0}46.80%,93%{opacity:1}97%,100%{opacity:0}}.l12{opacity:0;animation:a12 20s linear infinite}@keyframes a13{0%,51.00%{opacity:0}51.80%,93%{opacity:1}97%,100%{opacity:0}}.l13{opacity:0;animation:a13 20s linear infinite}@keyframes a14{0%,56.00%{opacity:0}56.80%,93%{opacity:1}97%,100%{opacity:0}}.l14{opacity:0;animation:a14 20s linear infinite}@keyframes a15{0%,59.00%{opacity:0}59.80%,93%{opacity:1}97%,100%{opacity:0}}.l15{opacity:0;animation:a15 20s linear infinite}@keyframes a16{0%,63.00%{opacity:0}63.80%,93%{opacity:1}97%,100%{opacity:0}}.l16{opacity:0;animation:a16 20s linear infinite}
+@media (prefers-reduced-motion: reduce){[class^=l]{animation:none!important;opacity:1!important}[class^=c]{display:none}}
+</style>
+<rect width="920" height="620" rx="14" fill="#0d1117"/>
+<rect x="0.5" y="0.5" width="919" height="619" rx="14" fill="none" stroke="#30363d"/>
+<circle cx="26" cy="24" r="6" fill="#ff5f57"/><circle cx="46" cy="24" r="6" fill="#febc2e"/><circle cx="66" cy="24" r="6" fill="#28c840"/>
+<text x="460.0" y="29" fill="#8b949e" text-anchor="middle" style="font-size:14px">hackathon-calendar — bash</text>
+<g class="l0"><text x="28" y="74" fill="#f778ba" font-weight="700">›</text><text x="54" y="74" fill="#f0f6fc" font-weight="700">curl -s $ICS_URL | grep -c BEGIN:VEVENT</text><rect class="c0" x="52" y="52" width="920" height="30" fill="#0d1117"/></g>
+<g class="l1"><text x="70" y="104" fill="#8b949e">11</text></g>
+<g class="l2"><text x="28" y="134" fill="#f778ba" font-weight="700">›</text><text x="54" y="134" fill="#f0f6fc" font-weight="700">curl -s $ICS_URL | grep ^SUMMARY | head -8</text><rect class="c2" x="52" y="112" width="920" height="30" fill="#0d1117"/></g>
+<g class="l3"><text x="70" y="164" fill="#8b949e">SUMMARY:LabLab AI Trading Agents ($50K)</text></g>
+<g class="l4"><text x="70" y="194" fill="#8b949e">SUMMARY:Microsoft AI Dev Days ($10K) - DEADLINE 3/15</text></g>
+<g class="l5"><text x="70" y="224" fill="#8b949e">SUMMARY:MLH Global Hack Week: Cloud (Free)</text></g>
+<g class="l6"><text x="70" y="254" fill="#8b949e">SUMMARY:MLH Global Hack Week: APIs (Free)</text></g>
+<g class="l7"><text x="70" y="284" fill="#8b949e">SUMMARY:Anthropic x USC Claude Hackathon - DEADLINE</text></g>
+<g class="l8"><text x="70" y="314" fill="#8b949e">SUMMARY:MLH Global Hack Week: GenAI (Free)</text></g>
+<g class="l9"><text x="70" y="344" fill="#8b949e">SUMMARY:DevNetwork AI+ML Hackathon</text></g>
+<g class="l10"><text x="70" y="374" fill="#8b949e">SUMMARY:Vercel AI Gateway Hackathon ($2.5K) - OPEN</text></g>
+<g class="l11"><text x="28" y="404" fill="#f778ba" font-weight="700">›</text><text x="54" y="404" fill="#f0f6fc" font-weight="700">./sync-calendar.sh</text><rect class="c11" x="52" y="382" width="920" height="30" fill="#0d1117"/></g>
+<g class="l12"><text x="70" y="434" fill="#8b949e">=== Hackathon Calendar Sync ===</text></g>
+<g class="l13"><text x="70" y="464" fill="#3fb950">[1/2] NAS WebDAV 업로드... OK (201)</text></g>
+<g class="l14"><text x="70" y="494" fill="#3fb950">[2/2] GitHub push... OK</text></g>
+<g class="l15"><text x="70" y="524" fill="#8b949e">=== Done ===</text></g>
+<g class="l16"><rect x="60" y="533" width="824" height="29" rx="6" fill="#3fb950" fill-opacity="0.13" stroke="#3fb950" stroke-opacity="0.55"/><text x="70" y="554" fill="#3fb950" font-weight="700">Calendar apps that subscribed pick up the new events on their next refresh</text></g>
+</svg>

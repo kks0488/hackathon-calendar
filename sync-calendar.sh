@@ -4,8 +4,9 @@ set -euo pipefail
 # Hackathon Calendar → NAS WebDAV + GitHub 동기화
 # Usage: ./sync-calendar.sh
 
-ICS_FILE="/home/kkaemo/projects/hackathon/hackathon-calendar.ics"
-ENV_FILE="/home/kkaemo/projects/hackathon/.env"
+REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
+ICS_FILE="$REPO_DIR/hackathon-calendar.ics"
+ENV_FILE="$REPO_DIR/.env"
 
 if [ -f "$ENV_FILE" ]; then
     set -a
@@ -14,7 +15,7 @@ if [ -f "$ENV_FILE" ]; then
     set +a
 fi
 
-: "${SYNOLOGY_CREDENTIAL_FILE:=/home/kkaemo/.config/synology/credentials.env}"
+: "${SYNOLOGY_CREDENTIAL_FILE:=$HOME/.config/synology/credentials.env}"
 if [ ! -f "$SYNOLOGY_CREDENTIAL_FILE" ] || [ -L "$SYNOLOGY_CREDENTIAL_FILE" ]; then
     echo "Credential file is missing or is not a regular file" >&2
     exit 1
@@ -50,7 +51,7 @@ fi
 
 # 2. GitHub push (optional)
 echo -n "[2/2] GitHub push... "
-cd /home/kkaemo/projects/hackathon
+cd "$REPO_DIR"
 if [ -d .git ]; then
     git add hackathon-calendar.ics && git commit -m "Update hackathon calendar $(date +%Y-%m-%d)" -q && git push -q 2>/dev/null
     echo "OK"
