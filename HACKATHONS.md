@@ -16,15 +16,14 @@
 
 ## 참가 가능 해커톤
 
-> Last updated: 2026-10-16 05:42 UTC
+> Last updated: 2026-10-16 23:39 UTC
 
 온라인 참여가 가능한 행사입니다. 시각이 없는 마감은 출처의 날짜를 그대로 표시합니다.
 MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 정확한 제출 시각은 행사 링크에서 확인하세요.
 
 | 해커톤 | 주최 | 마감 (KST) | 상금 | 테마 | 출처 |
 |---|---|---|---|---|---|
-| [MLAI Hackathon 2026](<https://mlai-hackathon.devpost.com>) | Mạng Lưới AI | 2026-10-16 (시각 미제공) | $0 | Databases, Machine Learning/AI | Devpost |
-| [AI Hackathon - Kenya](<https://ai-hackathon-ken.devpost.com>) | Jaseci Labs | 2026-10-17 (시각 미제공) | $1,000 | Fintech, Machine Learning/AI, Social Good | Devpost |
+| [AI Hackathon - Kenya](<https://ai-hackathon-ken.devpost.com>) | Jaseci Labs | 2026-10-17 (시각 미제공) | $0 | Fintech, Machine Learning/AI, Social Good | Devpost |
 | [Lehigh Fall 2026 Collegiate Hackathon](<https://lehigh-hacks.devpost.com>) | CSBA | 2026-10-18 (시각 미제공) | $0 | Beginner Friendly, Productivity, Social Good | Devpost |
 | [Technica 2026](<https://technica-2026.devpost.com>) | technica | 2026-10-18 (시각 미제공) | $0 | Beginner Friendly, Open Ended | Devpost |
 | [HEALTHHACK 48](<https://healthhack-48.devpost.com>) | HealthHack | 2026-10-19 (시각 미제공) | $0 | Beginner Friendly, Health, Productivity | Devpost |
@@ -34,6 +33,7 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [IEEE Hack For Humanity](<https://ieee-ai-hack-for-humanity.devpost.com>) | IEEE Charlotte Section | 2026-10-21 (시각 미제공) | $0 | Machine Learning/AI, Social Good | Devpost |
 | [Build, Ship, Shape: Amazon Developer Hackathon](<https://amazonappdev2026.devpost.com>) | Amazon | 2026-10-23 (시각 미제공) | $138,000 | Machine Learning/AI, Open Ended, Productivity | Devpost |
 | [Neighborhood Hacks](<https://neighborhood-hacks-2026.devpost.com>) | Student Organization | 2026-10-24 (시각 미제공) | $57,866 | Beginner Friendly, Social Good | Devpost |
+| [GLITCHATHON](<https://glitchathon.devpost.com>) | sir padampat singhania university | 2026-10-25 (시각 미제공) | $200 | Design, Low/No Code, Productivity | Devpost |
 | [IEEE ClimateChain Global Hackathon](<https://ieee-climatechain-hack.devpost.com>) | IEEE Turkey | 2026-10-25 (시각 미제공) | $3,000 | Blockchain, Machine Learning/AI, Social Good | Devpost |
 | [The Top 500 (UH v2)](<https://the-top-500-uh-v2.devpost.com>) | noclue | 2026-10-25 (시각 미제공) | $0 | Low/No Code, Open Ended, Social Good | Devpost |
 | [Build With AI: Basics](<https://learn-ai-basics.devpost.com>) | Devpost | 2026-10-26 (시각 미제공) | $2,500 | Machine Learning/AI, Beginner Friendly, Education | Devpost |
@@ -62,9 +62,11 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [IceHacks](<https://icehacks.devpost.com>) | CodeStarters | 2026-11-15 (시각 미제공) | $17,150 | Beginner Friendly, Low/No Code, Open Ended | Devpost |
 | [STEMergent Hacks 2026](<https://stemergent-hacks.devpost.com>) | STEMergent | 2026-11-15 (시각 미제공) | $0 | Low/No Code, Machine Learning/AI, Social Good | Devpost |
 | [Meta VR Start Developer Competition 2026](<https://start-developer-competition-26.devpost.com>) | Meta | 2026-11-18 (시각 미제공) | $1,000,000 | AR/VR, Machine Learning/AI, Web | Devpost |
+| [LaunchPad Hacks](<https://launchpad-hacks.devpost.com>) | Hack4TodayOrg | 2026-11-20 (시각 미제공) | $300 | Beginner Friendly, Open Ended | Devpost |
 | [Bridge The Gap Hacks](<https://sq-hacks.devpost.com>) | Bridge The Gap Hacks | 2026-11-21 (시각 미제공) | $0 | Beginner Friendly, Machine Learning/AI, Social Good | Devpost |
 | [KUK VIRTUAL HACKATHON](<https://kuk-virtual-hackathon.devpost.com>) | Kelab UMNO Korea | 2026-11-22 (시각 미제공) | $800 | Databases, Machine Learning/AI, Productivity | Devpost |
 | [BuildyourOwnWebsite](<https://buildyourownwebsite.devpost.com>) | Roxten Studios | 2026-11-25 (시각 미제공) | ₹ 0 | Beginner Friendly, Education, Web | Devpost |
+| [HackWithAditya](<https://hackwithaditya.devpost.com>) | Aditya University | 2026-11-25 (시각 미제공) | ₹ 500,000 | Education, Health, Machine Learning/AI | Devpost |
 | [305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app](<https://305veteransnov2026.devpost.com>) | GOOGLE DEVELOPER GROUP AT FIU | 2026-11-30 (시각 미제공) | $0 | Beginner Friendly, Cybersecurity, Education | Devpost |
 | [CSC Winter Sparkathon](<https://csc-winter-sparkathon.devpost.com>) | The Webb Schools CSC | 2026-11-30 (시각 미제공) | $100 | Beginner Friendly, Open Ended, Social Good | Devpost |
 | [Kiroween 2026](<https://kiroween.devpost.com>) | Kiro | 2026-12-04 (시각 미제공) | $100,000 | Beginner Friendly, Machine Learning/AI, Open Ended | Devpost |
