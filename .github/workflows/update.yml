@@ -1,0 +1,38 @@
+name: Update hackathon calendar
+
+on:
+  schedule:
+    - cron: '17 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-calendar-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test
+        run: python -B -m unittest discover -s tests -v
+      - name: Fetch open and upcoming online hackathons
+        run: python -B scripts/fetch_hackathons.py
+      - name: Build calendar and tracker
+        run: python -B scripts/build_calendar.py
+      - name: Commit changed files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add hackathon-calendar.ics HACKATHONS.md data/hackathons.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Update hackathon calendar $(date -u +%F)"
+            git push
+          fi

@@ -6,115 +6,1373 @@ METHOD:PUBLISH
 X-WR-CALNAME:Hackathon Tracker
 X-WR-TIMEZONE:Asia/Seoul
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260323
-SUMMARY:LabLab AI Trading Agents ($50K)
-DESCRIPTION:AI Trading Agents with ERC-8004 Hackathon\n상금: $50,000\n형식: 온라인, 개인/팀\n테마: 자율 트레이딩/리스크/수익/보호 에이전트\n링크: https://lablab.ai/ai-hackathons/ai-trading-agents-erc-8004
-URL:https://lablab.ai/ai-hackathons/ai-trading-agents-erc-8004
+UID:d144a493a4c097d4c69ff351@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:MLAI Hackathon 2026 — 마감
+DESCRIPTION:Prize: $0\nOrganizer: Mạng Lưới AI\nThemes: Databases\, Ma
+ chine Learning/AI\nFormat: online\nSource: Devpost\nURL: https://mlai-hack
+ athon.devpost.com
+URL:https://mlai-hackathon.devpost.com
 STATUS:CONFIRMED
 CATEGORIES:HACKATHON
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260210
-DTEND;VALUE=DATE:20260316
-SUMMARY:Microsoft AI Dev Days ($10K) - DEADLINE 3/15
-DESCRIPTION:Microsoft AI Dev Days Hackathon\n상금: $10,000 + Microsoft Build 2026 티켓\n형식: 온라인\n링크: https://developer.microsoft.com/en-us/reactor/events/26647/
-URL:https://developer.microsoft.com/en-us/reactor/events/26647/
-STATUS:CONFIRMED
-CATEGORIES:HACKATHON
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260313
-DTEND;VALUE=DATE:20260320
-SUMMARY:MLH Global Hack Week: Cloud (Free)
-DESCRIPTION:MLH Global Hack Week: Cloud\n형식: 온라인, 무료, 누구나\n링크: https://ghw.mlh.io/
-URL:https://ghw.mlh.io/
-STATUS:CONFIRMED
-CATEGORIES:HACKATHON
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260410
-DTEND;VALUE=DATE:20260417
-SUMMARY:MLH Global Hack Week: APIs (Free)
-DESCRIPTION:MLH Global Hack Week: APIs\n형식: 온라인, 무료\n링크: https://ghw.mlh.io/
-URL:https://ghw.mlh.io/
-STATUS:CONFIRMED
-CATEGORIES:HACKATHON
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260504
-DTEND;VALUE=DATE:20260505
-SUMMARY:Anthropic x USC Claude Hackathon - DEADLINE
-DESCRIPTION:Anthropic x USC Claude Hackathon\n마감: 2026-05-04 23:59\nClaude API 크레딧 제공\n적합: vibe-claude\n링크: https://anthropic-usc-hackathon.devpost.com/
-URL:https://anthropic-usc-hackathon.devpost.com/
-STATUS:CONFIRMED
-CATEGORIES:HACKATHON
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260508
-DTEND;VALUE=DATE:20260515
-SUMMARY:MLH Global Hack Week: GenAI (Free)
-DESCRIPTION:MLH Global Hack Week: GenAI\n형식: 온라인, 무료\n적합: vibe-claude, mystats, aionda\n링크: https://ghw.mlh.io/
-URL:https://ghw.mlh.io/
-STATUS:CONFIRMED
-CATEGORIES:HACKATHON
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260529
-SUMMARY:DevNetwork AI+ML Hackathon
-DESCRIPTION:DevNetwork [AI + ML] Hackathon 2026\n기간: 온라인 5/11~28, 현장 5/27~28\n형식: 온라인 + South San Francisco\n링크: https://devnetwork-ai-ml-hack-2026.devpost.com/
-URL:https://devnetwork-ai-ml-hack-2026.devpost.com/
-STATUS:CONFIRMED
-CATEGORIES:HACKATHON
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260227
-DTEND;VALUE=DATE:20260906
-SUMMARY:Vercel AI Gateway Hackathon ($2.5K) - OPEN
-DESCRIPTION:Vercel Global AI Gateway Hackathon\n상금: $2,500 / $1,000 / $500 AI 크레딧\n형식: 온라인, 개인/팀\n요구: Vercel + AI Gateway\n제출: X에 답글\n링크: https://vercel.com/i/ai-gateway-hackathon\n\n★ 가장 추천 - dailywave/mystats 이미 Vercel 배포 중
-URL:https://vercel.com/i/ai-gateway-hackathon
-STATUS:CONFIRMED
-CATEGORIES:HACKATHON
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;TZID=Asia/Seoul:20260310T090000
-DTEND;TZID=Asia/Seoul:20260310T093000
-SUMMARY:REMINDER: Microsoft AI Dev Days 마감 D-5
-DESCRIPTION:Microsoft AI Dev Days Hackathon 제출 마감 5일 전!\n준비 상태 확인하고 제출 준비하세요.\n링크: https://developer.microsoft.com/en-us/reactor/events/26647/
-STATUS:CONFIRMED
-CATEGORIES:REMINDER
 BEGIN:VALARM
-TRIGGER:-PT0M
+TRIGGER:-P3D
 ACTION:DISPLAY
-DESCRIPTION:Microsoft AI Dev Days 마감 D-5
+DESCRIPTION:MLAI Hackathon 2026 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:MLAI Hackathon 2026 — 1일 전
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Seoul:20260315T090000
-DTEND;TZID=Asia/Seoul:20260315T093000
-SUMMARY:DEADLINE: Microsoft AI Dev Days 제출 마감일!
-DESCRIPTION:오늘이 마감입니다! 제출하세요!\n링크: https://developer.microsoft.com/en-us/reactor/events/26647/
+UID:fafa5e7036d6283aeb10842a@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:AI Hackathon - Kenya — 마감
+DESCRIPTION:Prize: $1\,000\nOrganizer: Jaseci Labs\nThemes: Fintech\, Machi
+ ne Learning/AI\, Social Good\nFormat: online\nSource: Devpost\nURL: https:
+ //ai-hackathon-ken.devpost.com
+URL:https://ai-hackathon-ken.devpost.com
 STATUS:CONFIRMED
-CATEGORIES:DEADLINE
+CATEGORIES:HACKATHON
 BEGIN:VALARM
-TRIGGER:-PT2H
+TRIGGER:-P3D
 ACTION:DISPLAY
-DESCRIPTION:Microsoft AI Dev Days 마감 2시간 전!
+DESCRIPTION:AI Hackathon - Kenya — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:AI Hackathon - Kenya — 1일 전
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;TZID=Asia/Seoul:20260301T090000
-DTEND;TZID=Asia/Seoul:20260301T093000
-SUMMARY:MONTHLY: 해커톤 새로 올라온 거 체크
-DESCRIPTION:매월 1일 해커톤 플랫폼 체크!\n- Devpost: https://devpost.com/hackathons\n- LabLab: https://lablab.ai/ai-hackathons\n- MLH: https://mlh.com/seasons/2026/events\n- 콘테스트코리아: https://contestkorea.com
-RRULE:FREQ=MONTHLY;BYMONTHDAY=1;COUNT=10
+UID:cd9edc64e854e9bb82786b60@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Lehigh Fall 2026 Collegiate Hackathon — 마감
+DESCRIPTION:Prize: $0\nOrganizer: CSBA\nThemes: Beginner Friendly\, Product
+ ivity\, Social Good\nFormat: online\nSource: Devpost\nURL: https://lehigh-
+ hacks.devpost.com
+URL:https://lehigh-hacks.devpost.com
 STATUS:CONFIRMED
-CATEGORIES:REMINDER
+CATEGORIES:HACKATHON
 BEGIN:VALARM
-TRIGGER:-PT0M
+TRIGGER:-P3D
 ACTION:DISPLAY
-DESCRIPTION:해커톤 새로 올라온 거 체크할 시간!
+DESCRIPTION:Lehigh Fall 2026 Collegiate Hackathon — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Lehigh Fall 2026 Collegiate Hackathon — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a153092f61aa2c463bd61c7a@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:Technica 2026 — 마감
+DESCRIPTION:Prize: $0\nOrganizer: technica\nThemes: Beginner Friendly\, Ope
+ n Ended\nFormat: online\nSource: Devpost\nURL: https://technica-2026.devpo
+ st.com
+URL:https://technica-2026.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Technica 2026 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Technica 2026 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:04e2af090aa754b3db3a8516@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:HEALTHHACK 48 — 마감
+DESCRIPTION:Prize: $0\nOrganizer: HealthHack\nThemes: Beginner Friendly\, H
+ ealth\, Productivity\nFormat: online\nSource: Devpost\nURL: https://health
+ hack-48.devpost.com
+URL:https://healthhack-48.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:HEALTHHACK 48 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:HEALTHHACK 48 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:41b668e93ec81ad71d1af423@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:Hyperbloom October- UI/UX and Web Design — 마감
+DESCRIPTION:Prize: $9\,117\nOrganizer: hyperbloom hacks\nThemes: Design\, P
+ roductivity\, Web\nFormat: online\nSource: Devpost\nURL: https://hyperbloo
+ m-october.devpost.com
+URL:https://hyperbloom-october.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Hyperbloom October- UI/UX and Web Design — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Hyperbloom October- UI/UX and Web Design — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a3ec046e0c8985d7140464aa@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:EurekaDev 2026 — 마감
+DESCRIPTION:Prize: $19\,122\nOrganizer: Eureka Institute and UnivaDev\nThem
+ es: Beginner Friendly\, Open Ended\, Social Good\nFormat: online\nSource:
+  Devpost\nURL: https://eurekadev.devpost.com
+URL:https://eurekadev.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:EurekaDev 2026 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:EurekaDev 2026 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f693770cbd23f928709f6ec6@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:UnivaBio ($40\,000 in prizes) — 마감
+DESCRIPTION:Prize: $0\nOrganizer: BioCataalysis\nThemes: Beginner Friendly\
+ , Health\, Social Good\nFormat: online\nSource: Devpost\nURL: https://univ
+ abio.devpost.com
+URL:https://univabio.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:UnivaBio ($40\,000 in prizes) — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:UnivaBio ($40\,000 in prizes) — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:768ed66f157a7db1ecf3fded@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:IEEE Hack For Humanity — 마감
+DESCRIPTION:Prize: $0\nOrganizer: IEEE Charlotte Section\nThemes: Machine L
+ earning/AI\, Social Good\nFormat: online\nSource: Devpost\nURL: https://ie
+ ee-ai-hack-for-humanity.devpost.com
+URL:https://ieee-ai-hack-for-humanity.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:IEEE Hack For Humanity — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:IEEE Hack For Humanity — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:22ba3a17e47779e22befd7c9@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Build\, Ship\, Shape: Amazon Developer Hackathon — 마감
+DESCRIPTION:Prize: $138\,000\nOrganizer: Amazon\nThemes: Machine Learning/A
+ I\, Open Ended\, Productivity\nFormat: online\nSource: Devpost\nURL: https
+ ://amazonappdev2026.devpost.com
+URL:https://amazonappdev2026.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Build\, Ship\, Shape: Amazon Developer Hackathon — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Build\, Ship\, Shape: Amazon Developer Hackathon — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d96157e56797fb3cb8367dbb@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:Neighborhood Hacks — 마감
+DESCRIPTION:Prize: $57\,866\nOrganizer: Student Organization\nThemes: Begin
+ ner Friendly\, Social Good\nFormat: online\nSource: Devpost\nURL: https://
+ neighborhood-hacks-2026.devpost.com
+URL:https://neighborhood-hacks-2026.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Neighborhood Hacks — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Neighborhood Hacks — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b9d28e450d083127b1138667@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:IEEE ClimateChain Global Hackathon — 마감
+DESCRIPTION:Prize: $3\,000\nOrganizer: IEEE Turkey\nThemes: Blockchain\, Ma
+ chine Learning/AI\, Social Good\nFormat: online\nSource: Devpost\nURL: htt
+ ps://ieee-climatechain-hack.devpost.com
+URL:https://ieee-climatechain-hack.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:IEEE ClimateChain Global Hackathon — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:IEEE ClimateChain Global Hackathon — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f071d893112ab01417e38637@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:The Top 500 (UH v2) — 마감
+DESCRIPTION:Prize: $0\nOrganizer: noclue\nThemes: Low/No Code\, Open Ended\
+ , Social Good\nFormat: online\nSource: Devpost\nURL: https://the-top-500-u
+ h-v2.devpost.com
+URL:https://the-top-500-uh-v2.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:The Top 500 (UH v2) — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:The Top 500 (UH v2) — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:aad93be3577d020ae2a0cb5f@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:Build With AI: Basics — 마감
+DESCRIPTION:Prize: $2\,500\nOrganizer: Devpost\nThemes: Machine Learning/AI
+ \, Beginner Friendly\, Education\nFormat: online\nSource: Devpost\nURL: ht
+ tps://learn-ai-basics.devpost.com
+URL:https://learn-ai-basics.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Build With AI: Basics — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Build With AI: Basics — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:434cca66f960eb7ed21a9c5e@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Code For DFW — 마감
+DESCRIPTION:Prize: $0\nOrganizer: n/a\nThemes: Open Ended\, Social Good\, B
+ eginner Friendly\nFormat: online\nSource: Devpost\nURL: https://code-for-d
+ fw.devpost.com
+URL:https://code-for-dfw.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Code For DFW — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Code For DFW — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9669030b88785a97b05cd1d6@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Life After Code — 마감
+DESCRIPTION:Prize: $45\,000\nOrganizer: GitLab\nThemes: DevOps\, Machine Le
+ arning/AI\, Productivity\nFormat: online\nSource: Devpost\nURL: https://gi
+ tlab-transcend.devpost.com
+URL:https://gitlab-transcend.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Life After Code — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Life After Code — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:288a849271d4c5f9975fc980@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:OpenCV AI Competition 2026\, powered by AWS — 마감
+DESCRIPTION:Prize: $20\,250\nOrganizer: OpenCV\nThemes: IoT\, Machine Learn
+ ing/AI\, Serverless\nFormat: online\nSource: Devpost\nURL: https://opencv2
+ 6.devpost.com
+URL:https://opencv26.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:OpenCV AI Competition 2026\, powered by AWS — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:OpenCV AI Competition 2026\, powered by AWS — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:883b662f11058c6b7f91fd25@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:AWS Communication Developer Services (CDS) Agentic AI Partner Hacka
+ thon — 마감
+DESCRIPTION:Prize: $40\,000\nOrganizer: AWS\nThemes: Communication\, Mobile
+ \, Machine Learning/AI\nFormat: online\nSource: Devpost\nURL: https://aws-
+ cds-partner.devpost.com
+URL:https://aws-cds-partner.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:AWS Communication Developer Services (CDS) Agentic AI Partner H
+ ackathon — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:AWS Communication Developer Services (CDS) Agentic AI Partner H
+ ackathon — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fb9d6252b9da6c93e6cb78ea@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:2026 International CodeTheCure Hackathon — 마감
+DESCRIPTION:Prize: $0\nOrganizer: CodeTheCure\nThemes: Beginner Friendly\,
+  Education\, Health\nFormat: online\nSource: Devpost\nURL: https://codethe
+ cure-hackathon-26.devpost.com
+URL:https://codethecure-hackathon-26.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:2026 International CodeTheCure Hackathon — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:2026 International CodeTheCure Hackathon — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9fa70dd0c429874d40e96b5f@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Girls Who Code HHS Hackathon 2026 — 마감
+DESCRIPTION:Prize: $50\nOrganizer: Girls Who Code HHS\nThemes: Beginner Fri
+ endly\, Gaming\, Social Good\nFormat: online\nSource: Devpost\nURL: https:
+ //gwchhs-hackathon-2026.devpost.com
+URL:https://gwchhs-hackathon-2026.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Girls Who Code HHS Hackathon 2026 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Girls Who Code HHS Hackathon 2026 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:daee597944809df0d6c5afdb@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Hybrid Micro Mouse Challenge — 마감
+DESCRIPTION:Prize: ₹ 55\,000\nOrganizer: Alliance University\nThemes: Edu
+ cation\, IoT\, Open Ended\nFormat: online\nSource: Devpost\nURL: https://h
+ ybrid-micro-mouse-challenge.devpost.com
+URL:https://hybrid-micro-mouse-challenge.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Hybrid Micro Mouse Challenge — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Hybrid Micro Mouse Challenge — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:49e9c1d747ac356533353089@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Nebius x NVIDIA Global AI Hackathon — 마감
+DESCRIPTION:Prize: $50\,000\nOrganizer: nebius\nThemes: Machine Learning/AI
+ \, Beginner Friendly\, Robotic Process Automation\nFormat: online\nSource:
+  Devpost\nURL: https://nebiusglobalaihackathon.devpost.com
+URL:https://nebiusglobalaihackathon.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Nebius x NVIDIA Global AI Hackathon — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Nebius x NVIDIA Global AI Hackathon — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a2e2d3178fb0e21e8bc82ef9@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Pumpkin Playground — 마감
+DESCRIPTION:Prize: $30\nOrganizer: ACM Long Beach\nThemes: Design\, Gaming\
+ , Web\nFormat: online\nSource: Devpost\nURL: https://pumpkin-playground.de
+ vpost.com
+URL:https://pumpkin-playground.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Pumpkin Playground — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Pumpkin Playground — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c8820de128529aaf17d816d4@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Qloo Agentic Hackathon — 마감
+DESCRIPTION:Prize: $25\,000\nOrganizer: Qloo\nThemes: Machine Learning/AI\n
+ Format: online\nSource: Devpost\nURL: https://qloo.devpost.com
+URL:https://qloo.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Qloo Agentic Hackathon — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Qloo Agentic Hackathon — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb41cfaa0b977e18a87fb70@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:305 EmpowHER Edition October 2026 — 305Hackathons.vercel.app —
+  마감
+DESCRIPTION:Prize: $0\nOrganizer: CODE CRUNCH\nThemes: Beginner Friendly\,
+  Cybersecurity\, Education\nFormat: online\nSource: Devpost\nURL: https://
+ 305empowheroct2026.devpost.com
+URL:https://305empowheroct2026.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:305 EmpowHER Edition October 2026 — 305Hackathons.vercel.app
+  — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:305 EmpowHER Edition October 2026 — 305Hackathons.vercel.app
+  — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dfe911a5101ccc8b702b2e52@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Galuxium Nexus V2 — 마감
+DESCRIPTION:Prize: $14\,644\nOrganizer: Galuxium\nThemes: Enterprise\, Mach
+ ine Learning/AI\, Productivity\nFormat: online\nSource: Devpost\nURL: http
+ s://galuxium-nexus-v2-29411.devpost.com
+URL:https://galuxium-nexus-v2-29411.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Galuxium Nexus V2 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Galuxium Nexus V2 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:952730ad48c134dfb22a2986@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:InternWell Hack2.0 — 마감
+DESCRIPTION:Prize: ₹ 1\,000\nOrganizer: InternWell-SLIET\nThemes: Communi
+ cation\, Machine Learning/AI\, Web\nFormat: online\nSource: Devpost\nURL:
+  https://interwell-hack2-0.devpost.com
+URL:https://interwell-hack2-0.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:InternWell Hack2.0 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:InternWell Hack2.0 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bad59f497087f62ed14bc09a@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:Next Byte Hacks V5 — 마감
+DESCRIPTION:Prize: $100\nOrganizer: Next Byte Hacks\nThemes: Beginner Frien
+ dly\, Low/No Code\, Open Ended\nFormat: online\nSource: Devpost\nURL: http
+ s://next-byte-hacks-v5.devpost.com
+URL:https://next-byte-hacks-v5.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Next Byte Hacks V5 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Next Byte Hacks V5 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:defc91f3fce8dd01f055e73e@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:Mathematics for systems security — 마감
+DESCRIPTION:Prize: $0\nOrganizer: Software Engineering Club (DEV)\nThemes:
+  Communication\, Cybersecurity\, Machine Learning/AI\nFormat: online\nSour
+ ce: Devpost\nURL: https://mathematics-systems-security.devpost.com
+URL:https://mathematics-systems-security.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Mathematics for systems security — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Mathematics for systems security — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:416fd71293f65451c49dda5a@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:YouCam API Skin AI & eCommerce VTO Hackathon — 마감
+DESCRIPTION:Prize: $6\,000\nOrganizer: Perfect Corp\nThemes: AR/VR\, E-comm
+ erce/Retail\, Machine Learning/AI\nFormat: online\nSource: Devpost\nURL: h
+ ttps://youcam-api-skin-ai-ecommerce.devpost.com
+URL:https://youcam-api-skin-ai-ecommerce.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:YouCam API Skin AI & eCommerce VTO Hackathon — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:YouCam API Skin AI & eCommerce VTO Hackathon — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea843a73cf54e09b1df67ded@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Ostad Presents YUNet AIgnite Buildathon 2026 — 마감
+DESCRIPTION:Prize: $0\nOrganizer: Youth Upskill Network - YUNet\nThemes: Ed
+ ucation\, Low/No Code\, Machine Learning/AI\nFormat: online\nSource: Devpo
+ st\nURL: https://yunet-aignite26.devpost.com
+URL:https://yunet-aignite26.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Ostad Presents YUNet AIgnite Buildathon 2026 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Ostad Presents YUNet AIgnite Buildathon 2026 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:82b77352762012927cc6a18e@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:EthnoHack — 마감
+DESCRIPTION:Prize: €0\nOrganizer: ETHCSTWIN\nThemes: Databases\, Health\,
+  Machine Learning/AI\nFormat: online\nSource: Devpost\nURL: https://ethnoh
+ ack2026.devpost.com
+URL:https://ethnohack2026.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:EthnoHack — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:EthnoHack — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:86e2ffb7ccaee0e7d39d9f5c@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:Learn AR with SPECS — 마감
+DESCRIPTION:Prize: $2\,500\nOrganizer: Devpost\nThemes: AR/VR\, Machine Lea
+ rning/AI\, Design\nFormat: online\nSource: Devpost\nURL: https://learn-spe
+ cs.devpost.com
+URL:https://learn-specs.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Learn AR with SPECS — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Learn AR with SPECS — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb2269d0c63f5dfb204423c@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM — 마감
+DESCRIPTION:Prize: ₹ 10\,000\nOrganizer: Institute of Engineering & Manag
+ ement\nThemes: Quantum\nFormat: online\nSource: Devpost\nURL: https://atom
+ iq-hackathon-qff-26-iem.devpost.com
+URL:https://atomiq-hackathon-qff-26-iem.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM — 3일
+  전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:The Atomiq Hackathon | Qiskit Fall Fest 2026 at IEM — 1일
+  전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d52d84bbbd29cccf1cfc65f0@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:PayPal AI Hackathon — 마감
+DESCRIPTION:Prize: $67\,500\nOrganizer: PayPal\nThemes: Low/No Code\, Machi
+ ne Learning/AI\, Web\nFormat: online\nSource: Devpost\nURL: https://paypal
+ aihackathon.devpost.com
+URL:https://paypalaihackathon.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:PayPal AI Hackathon — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:PayPal AI Hackathon — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f5d65a35204bda59498b1e37@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:DSH Hacks V2 ($100k+ in prizes!) — 마감
+DESCRIPTION:Prize: $0\nOrganizer: STEMise\nThemes: Beginner Friendly\, Low/
+ No Code\, Open Ended\nFormat: online\nSource: Devpost\nURL: https://dsh-ha
+ cks-v2.devpost.com
+URL:https://dsh-hacks-v2.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:DSH Hacks V2 ($100k+ in prizes!) — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:DSH Hacks V2 ($100k+ in prizes!) — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:202efaa6bc29ee2178bbe3a4@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:IceHacks — 마감
+DESCRIPTION:Prize: $17\,150\nOrganizer: CodeStarters\nThemes: Beginner Frie
+ ndly\, Low/No Code\, Open Ended\nFormat: online\nSource: Devpost\nURL: htt
+ ps://icehacks.devpost.com
+URL:https://icehacks.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:IceHacks — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:IceHacks — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8ec8d029abd255cb7514db4d@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:STEMergent Hacks 2026 — 마감
+DESCRIPTION:Prize: $0\nOrganizer: STEMergent\nThemes: Low/No Code\, Machine
+  Learning/AI\, Social Good\nFormat: online\nSource: Devpost\nURL: https://
+ stemergent-hacks.devpost.com
+URL:https://stemergent-hacks.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:STEMergent Hacks 2026 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:STEMergent Hacks 2026 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8f10e74e67c533c51435ccb9@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:Meta VR Start Developer Competition 2026 — 마감
+DESCRIPTION:Prize: $1\,000\,000\nOrganizer: Meta\nThemes: AR/VR\, Machine L
+ earning/AI\, Web\nFormat: online\nSource: Devpost\nURL: https://start-deve
+ loper-competition-26.devpost.com
+URL:https://start-developer-competition-26.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Meta VR Start Developer Competition 2026 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Meta VR Start Developer Competition 2026 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c1ce095990609636e5f0947f@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:Bridge The Gap Hacks — 마감
+DESCRIPTION:Prize: $0\nOrganizer: Bridge The Gap Hacks\nThemes: Beginner Fr
+ iendly\, Machine Learning/AI\, Social Good\nFormat: online\nSource: Devpos
+ t\nURL: https://sq-hacks.devpost.com
+URL:https://sq-hacks.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Bridge The Gap Hacks — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Bridge The Gap Hacks — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:14e918eb576d3236597bee7c@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:KUK VIRTUAL HACKATHON — 마감
+DESCRIPTION:Prize: $800\nOrganizer: Kelab UMNO Korea\nThemes: Databases\, M
+ achine Learning/AI\, Productivity\nFormat: online\nSource: Devpost\nURL: h
+ ttps://kuk-virtual-hackathon.devpost.com
+URL:https://kuk-virtual-hackathon.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:KUK VIRTUAL HACKATHON — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:KUK VIRTUAL HACKATHON — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:44a0980aec8682f923ba4762@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:BuildyourOwnWebsite — 마감
+DESCRIPTION:Prize: ₹ 0\nOrganizer: Roxten Studios\nThemes: Beginner Frien
+ dly\, Education\, Web\nFormat: online\nSource: Devpost\nURL: https://build
+ yourownwebsite.devpost.com
+URL:https://buildyourownwebsite.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:BuildyourOwnWebsite — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:BuildyourOwnWebsite — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dd5fef6c002c434621b00b05@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:305 Veterans Hackathon Edition November 2026 — 305Hackathons.verc
+ el.app — 마감
+DESCRIPTION:Prize: $0\nOrganizer: GOOGLE DEVELOPER GROUP AT FIU\nThemes: Be
+ ginner Friendly\, Cybersecurity\, Education\nFormat: online\nSource: Devpo
+ st\nURL: https://305veteransnov2026.devpost.com
+URL:https://305veteransnov2026.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:305 Veterans Hackathon Edition November 2026 — 305Hackathons.
+ vercel.app — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:305 Veterans Hackathon Edition November 2026 — 305Hackathons.
+ vercel.app — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:148f24ccba72bd7a9eab9015@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:CSC Winter Sparkathon — 마감
+DESCRIPTION:Prize: $100\nOrganizer: The Webb Schools CSC\nThemes: Beginner
+  Friendly\, Open Ended\, Social Good\nFormat: online\nSource: Devpost\nURL
+ : https://csc-winter-sparkathon.devpost.com
+URL:https://csc-winter-sparkathon.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:CSC Winter Sparkathon — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:CSC Winter Sparkathon — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e62d597538053b8e049cfb0b@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Kiroween 2026 — 마감
+DESCRIPTION:Prize: $100\,000\nOrganizer: Kiro\nThemes: Beginner Friendly\,
+  Machine Learning/AI\, Open Ended\nFormat: online\nSource: Devpost\nURL: h
+ ttps://kiroween.devpost.com
+URL:https://kiroween.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Kiroween 2026 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Kiroween 2026 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1165dd39e94bda56f00103a3@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:AI Agents for Founders Challenge — HETIC 2026 — 마감
+DESCRIPTION:Prize: €997\nOrganizer: HETIC\nThemes: Low/No Code\, Machine
+  Learning/AI\, Productivity\nFormat: online\nSource: Devpost\nURL: https:/
+ /ai-agents-founders-hetic-26.devpost.com
+URL:https://ai-agents-founders-hetic-26.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:AI Agents for Founders Challenge — HETIC 2026 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:AI Agents for Founders Challenge — HETIC 2026 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9d9e35f4dede5fccf34445ed@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Arbiter Hacks V1 — 마감
+DESCRIPTION:Prize: $3\,800\nOrganizer: Arbiter\nThemes: Beginner Friendly\,
+  Machine Learning/AI\, Open Ended\nFormat: online\nSource: Devpost\nURL: h
+ ttps://arbiter-hacks-v1.devpost.com
+URL:https://arbiter-hacks-v1.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Arbiter Hacks V1 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Arbiter Hacks V1 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e77bb013b884f3b97889dde7@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:Cosmo Hacks — 마감
+DESCRIPTION:Prize: $196\,955\nOrganizer: Cosmo Hacks\nThemes: Beginner Frie
+ ndly\, Open Ended\, Education\nFormat: online\nSource: Devpost\nURL: https
+ ://cosmohacks.devpost.com
+URL:https://cosmohacks.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Cosmo Hacks — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Cosmo Hacks — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e92f3f495c97a548df54b0@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:305 CodeFest Edition December 2026 — 305Hackathons.vercel.app —
+  마감
+DESCRIPTION:Prize: $0\nOrganizer: COLORSTACKatFIU\nThemes: Beginner Friendl
+ y\, Cybersecurity\, Education\nFormat: online\nSource: Devpost\nURL: https
+ ://305codefestdec2026.devpost.com
+URL:https://305codefestdec2026.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:305 CodeFest Edition December 2026 — 305Hackathons.vercel.app
+  — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:305 CodeFest Edition December 2026 — 305Hackathons.vercel.app
+  — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:153cc158b9c0badd31e63eef@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:evensonarisnord — 마감
+DESCRIPTION:Prize: $150\nOrganizer: HoustonHacks2026\nThemes: Communication
+ \, Databases\nFormat: online\nSource: Devpost\nURL: https://evensonarisnor
+ d.devpost.com
+URL:https://evensonarisnord.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:evensonarisnord — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:evensonarisnord — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:af8af0b8b82c70cde8a12578@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20270102
+DTEND;VALUE=DATE:20270103
+SUMMARY:InnovArt 2027: Art and Technology Hack Day — 마감
+DESCRIPTION:Prize: $0\nOrganizer: Binnovative\nThemes: Music/Art\, Beginner
+  Friendly\, Open Ended\nFormat: online\nSource: Devpost\nURL: https://inno
+ vart2027.devpost.com
+URL:https://innovart2027.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:InnovArt 2027: Art and Technology Hack Day — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:InnovArt 2027: Art and Technology Hack Day — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c5d04e3c1adc0f703658b5b2@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:checkpoint 1 — games for good — 마감
+DESCRIPTION:Prize: $1\,400\nOrganizer: Checkpoint\nThemes: Gaming\, Machine
+  Learning/AI\, Social Good\nFormat: online\nSource: Devpost\nURL: https://
+ checkpoint-1.devpost.com
+URL:https://checkpoint-1.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:checkpoint 1 — games for good — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:checkpoint 1 — games for good — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:faf567213826d10e522458bb@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+SUMMARY:United Hacks V8 — 마감
+DESCRIPTION:Prize: $13\,700\nOrganizer: Hack United\nThemes: Beginner Frien
+ dly\, Design\, Education\nFormat: online\nSource: Devpost\nURL: https://un
+ itedhacksv8.devpost.com
+URL:https://unitedhacksv8.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:United Hacks V8 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:United Hacks V8 — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d6bca307c5772604863fad51@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+SUMMARY:Syntax Summit — 마감
+DESCRIPTION:Prize: $0\nOrganizer: Student Organization\nThemes: DevOps\, Ma
+ chine Learning/AI\, Robotic Process Automation\nFormat: online\nSource: De
+ vpost\nURL: https://syntax-summit.devpost.com
+URL:https://syntax-summit.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Syntax Summit — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Syntax Summit — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c81a6b7044d0b579a4dc4998@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+SUMMARY:Code for Humanity — 마감
+DESCRIPTION:Prize: $0\nOrganizer: nill\nThemes: Education\, Machine Learnin
+ g/AI\, Web\nFormat: online\nSource: Devpost\nURL: https://code-for-humanit
+ y.devpost.com
+URL:https://code-for-humanity.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Code for Humanity — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Code for Humanity — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9124753b17711638cc8cc3c4@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:HackTitan — 마감
+DESCRIPTION:Prize: $10\,000\nOrganizer: IWU\nThemes: Beginner Friendly\, Da
+ tabases\, DevOps\nFormat: online\nSource: Devpost\nURL: https://hacktitan.
+ devpost.com
+URL:https://hacktitan.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:HackTitan — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:HackTitan — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d7f6f88850c2425c91717bb@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20270302
+DTEND;VALUE=DATE:20270303
+SUMMARY:WiCS Hackathon — 마감
+DESCRIPTION:Prize: $0\nOrganizer: MLH\nThemes: Beginner Friendly\, Design\,
+  Education\nFormat: online\nSource: Devpost\nURL: https://wics-hackathon.d
+ evpost.com
+URL:https://wics-hackathon.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:WiCS Hackathon — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:WiCS Hackathon — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:60815a2431dc3052aaeccbc3@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:Build Beyond Hackathon — 마감
+DESCRIPTION:Prize: $5\,000\nOrganizer: OSC\nThemes: Beginner Friendly\, Ope
+ n Ended\, Productivity\nFormat: online\nSource: Devpost\nURL: https://buil
+ d-beyond.devpost.com
+URL:https://build-beyond.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Build Beyond Hackathon — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Build Beyond Hackathon — 1일 전
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b3c2ca9e06559c2b2d0fda69@kks0488.github.io
+DTSTAMP:20261016T054130Z
+DTSTART;VALUE=DATE:20280327
+DTEND;VALUE=DATE:20280328
+SUMMARY:Brewing Codes 4.0 — 마감
+DESCRIPTION:Prize: ₹ 100\,000\nOrganizer: HARD MODE\nThemes: Low/No Code\
+ , Machine Learning/AI\, Web\nFormat: online\nSource: Devpost\nURL: https:/
+ /brewing-codes-4-0.devpost.com
+URL:https://brewing-codes-4-0.devpost.com
+STATUS:CONFIRMED
+CATEGORIES:HACKATHON
+BEGIN:VALARM
+TRIGGER:-P3D
+ACTION:DISPLAY
+DESCRIPTION:Brewing Codes 4.0 — 3일 전
+END:VALARM
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Brewing Codes 4.0 — 1일 전
 END:VALARM
 END:VEVENT
 END:VCALENDAR

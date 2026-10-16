@@ -10,7 +10,7 @@
 
 <p align="center">
   One subscription URL for Apple Calendar, Google Calendar or any iCalendar app.<br>
-  A small shell script pushes updates to a NAS over WebDAV and to GitHub.
+  GitHub Actions refreshes the list every day. NAS sync over WebDAV is optional.
 </p>
 
 <p align="center">
@@ -31,15 +31,15 @@ The calendar is a plain `.ics` file served from GitHub. Add its URL once and you
 <td width="50%" valign="top">
 
 ### Deadlines with alarms
-Each hackathon is an event with prize, format and link in its notes. Separate reminder events with alarms flag key deadlines.
+Each hackathon has a deadline event with prize, organizer, themes and link in its notes, plus alarms 3 days and 1 day before.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### A monthly nudge
-A recurring event on the 1st of each month lists the platforms to check for new hackathons (Devpost, LabLab.ai, MLH, Contest Korea).
+### A daily refresh
+GitHub Actions collects open and upcoming online hackathons from Devpost and MLH every day. LabLab.ai is included when its public listing provides parseable event data.
 
 </td>
 <td width="50%" valign="top">
@@ -67,29 +67,17 @@ https://raw.githubusercontent.com/kks0488/hackathon-calendar/main/hackathon-cale
   <img src="assets/demo.svg" alt="Terminal: counting the 11 events in the published feed, listing the hackathons, then running the sync script" width="100%">
 </p>
 
-<sub>The two <code>curl</code> commands are a real run against the published feed. The sync output is what the script prints when both steps succeed.</sub>
+<sub>Historical example from the original feed; event counts and dates have changed. The optional sync output shows a successful NAS/GitHub run.</sub>
 
 ## What's in the calendar
 
-The list was last updated on **2026-02-27**, and all of the hackathons below have since ended. The monthly check reminder repeats through December 2026.
+Open and upcoming hackathons that accept online participation, with deadlines today or later (UTC). The current deadline-sorted list, update time and candidate projects are in [HACKATHONS.md](HACKATHONS.md) (Korean); normalized data is in [data/hackathons.json](data/hackathons.json).
 
-| Hackathon | Dates (2026) | Prize |
-|---|---|---|
-| Vercel Global AI Gateway Hackathon | until Sep 5 | $2,500 / $1,000 / $500 AI credits |
-| Microsoft AI Dev Days Hackathon | Feb 10 – Mar 15 | $10,000 + Microsoft Build tickets |
-| LabLab.ai AI Trading Agents (ERC-8004) | Mar 9 – 22 | $50,000 |
-| MLH Global Hack Week: Cloud | Mar 13 – 19 | Free event |
-| MLH Global Hack Week: APIs | Apr 10 – 16 | Free event |
-| Anthropic x USC Claude Hackathon | deadline May 4 | Claude API credits |
-| MLH Global Hack Week: GenAI | May 8 – 14 | Free event |
-| DevNetwork [AI + ML] Hackathon | May 11 – 28 | not listed |
-
-Plus three reminders: a D-5 and a deadline-day alarm for Microsoft AI Dev Days, and the monthly check on the 1st.
-Notes on each event, candidate projects and the checking routine are in [HACKATHONS.md](HACKATHONS.md) (Korean).
+Devpost dates without a published time appear as all-day deadlines. MLH uses the event end time. Check each event's link for eligibility and its exact submission cutoff.
 
 ## Run your own
 
-1. Fork the repo and edit `hackathon-calendar.ics` (one `VEVENT` per event).
+1. Fork the repo and enable GitHub Actions. The update workflow runs daily at **21:17 UTC (06:17 KST the next day)**, or manually via **Actions → Update hackathon calendar → Run workflow**. No API keys or configured secrets are needed.
 2. Subscribe to your fork's raw URL as above.
 3. Optional NAS sync:
 
@@ -101,6 +89,14 @@ chmod 600 ~/.config/synology/credentials.env
 ./sync-calendar.sh
 ```
 
+To refresh locally with Python 3.11+ (standard library only):
+
+```bash
+python3 scripts/fetch_hackathons.py
+python3 scripts/build_calendar.py
+python3 -B -m unittest discover -s tests -v
+```
+
 <details>
 <summary><b>Technical details</b></summary>
 
@@ -109,7 +105,9 @@ chmod 600 ~/.config/synology/credentials.env
 - Step 1 uploads the `.ics` with `curl -T` and reports the HTTP status (201 or 204 means success). Step 2 commits and pushes the file if the folder is a git repository.
 - Use a WebDAV account that can only reach the calendar folder, not a NAS admin account.
 - Needs `bash`, `curl`, `git` and GNU `stat` (Linux). On macOS, `stat -c` is not available.
-- The calendar uses `Asia/Seoul` as its time zone. All-day events use `VALUE=DATE`; the monthly reminder uses `RRULE:FREQ=MONTHLY;BYMONTHDAY=1;COUNT=10`.
+- The fetcher paginates Devpost's public JSON and reads the 2027 and 2026 MLH season pages. LabLab.ai is optional. Source failures and unparseable listings produce warnings while other sources continue.
+- The builder generates `hackathon-calendar.ics`, `HACKATHONS.md` and `data/hackathons.json`, preserving the candidate project section. The workflow commits and pushes these files only when they change.
+- Timed deadlines use UTC in the feed and KST in the tracker. Date-only listings use `VALUE=DATE`. Each event has a stable UID and two deadline alarms; the calendar name remains `Hackathon Tracker`.
 
 </details>
 
@@ -117,28 +115,24 @@ chmod 600 ~/.config/synology/credentials.env
 
 ```mermaid
 flowchart LR
-  A[HACKATHONS.md<br>notes] -. edited by hand .-> B[hackathon-calendar.ics]
-  B --> C[sync-calendar.sh]
-  C -->|WebDAV upload| D[(NAS)]
-  C -->|git push| E[GitHub raw URL]
+  A[GitHub Actions<br>daily or manual] --> B[Public hackathon sources]
+  B --> C[data/hackathons.json]
+  C --> D[hackathon-calendar.ics<br>HACKATHONS.md]
+  D -->|commit changed files| E[GitHub raw URL]
   E --> F[Apple / Google Calendar]
+  D -. optional sync-calendar.sh .-> G[(NAS / WebDAV)]
 ```
 
 ## FAQ
 
 **Is the list kept up to date?**
-Not right now. It was last updated on 2026-02-27, and those events are over. The repository still works as a template for your own list.
+Yes. GitHub Actions is scheduled daily at 21:17 UTC and can also be run manually. See the last update time in [HACKATHONS.md](HACKATHONS.md) and source warnings in the workflow log.
 
 **Do I need a NAS?**
 No. The GitHub raw URL is enough to subscribe. The NAS upload is optional.
 
 **How often does my calendar refresh?**
 That depends on the app. Apple Calendar lets you choose an interval; Google Calendar refreshes subscribed calendars on its own schedule.
-
-## Roadmap (planned, not built)
-
-- Generate the `.ics` from `HACKATHONS.md` instead of editing both by hand.
-- Refresh the list with currently open hackathons.
 
 ## License
 
