@@ -16,16 +16,13 @@
 
 ## 참가 가능 해커톤
 
-> Last updated: 2026-10-25 23:19 UTC
+> Last updated: 2026-10-27 00:31 UTC
 
 온라인 참여가 가능한 행사입니다. 시각이 없는 마감은 출처의 날짜를 그대로 표시합니다.
 MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 정확한 제출 시각은 행사 링크에서 확인하세요.
 
 | 해커톤 | 주최 | 마감 (KST) | 상금 | 테마 | 출처 |
 |---|---|---|---|---|---|
-| [The Top 500 (UH v2)](<https://the-top-500-uh-v2.devpost.com>) | noclue | 2026-10-25 (시각 미제공) | $0 | Low/No Code, Open Ended, Social Good | Devpost |
-| [Build With AI: Basics](<https://learn-ai-basics.devpost.com>) | Devpost | 2026-10-26 (시각 미제공) | $2,500 | Machine Learning/AI, Beginner Friendly, Education | Devpost |
-| [NextSpark Hacks](<https://nextspark-hacks.devpost.com>) | Independent Student Organizer | 2026-10-26 (시각 미제공) | $100 | Beginner Friendly, Machine Learning/AI, Open Ended | Devpost |
 | [Life After Code](<https://gitlab-transcend.devpost.com>) | GitLab | 2026-10-27 (시각 미제공) | $45,000 | DevOps, Machine Learning/AI, Productivity | Devpost |
 | [Hack to the Future](<https://hack-to-the-missing-future-ai.devpost.com>) | HackathonForEveryone | 2026-10-27 (시각 미제공) | $0 | Beginner Friendly | Devpost |
 | [OpenCV AI Competition 2026, powered by AWS](<https://opencv26.devpost.com>) | OpenCV | 2026-10-27 (시각 미제공) | $20,250 | IoT, Machine Learning/AI, Serverless | Devpost |
@@ -43,7 +40,7 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [FUSE Society Blueprint 2026](<https://fuse-society-blueprint-2026.devpost.com>) | Fuse Society | 2026-10-31 (시각 미제공) | $250 | Beginner Friendly | Devpost |
 | [Next Byte Hacks V5](<https://next-byte-hacks-v5.devpost.com>) | Next Byte Hacks | 2026-10-31 (시각 미제공) | $100 | Beginner Friendly, Low/No Code, Open Ended | Devpost |
 | [AQX Sports Analytics Data Bowl 4.0](<https://aqxanalyticsfour.devpost.com>) | Devpost | 2026-11-01 (시각 미제공) | $50 | Beginner Friendly, Databases, Gaming | Devpost |
-| [Mathematics for systems security](<https://mathematics-systems-security.devpost.com>) | Software Engineering Club (DEV) | 2026-11-01 (시각 미제공) | $0 | Communication, Cybersecurity, Machine Learning/AI | Devpost |
+| [TRMI X Lovhack : Multiplayer Everything Hackathon](<https://lovhack-trmi-2026.devpost.com>) | Lovhack | 2026-11-01 (시각 미제공) | $300 | Machine Learning/AI, Open Ended, Web | Devpost |
 | [Codex x TwitchCon Hackathon](<https://twitchcon-codex.devpost.com>) | Twitch | 2026-11-02 (시각 미제공) | $25,000 | Communication, Gaming, Machine Learning/AI | Devpost |
 | [YouCam API Skin AI &amp; eCommerce VTO Hackathon](<https://youcam-api-skin-ai-ecommerce.devpost.com>) | Perfect Corp | 2026-11-02 (시각 미제공) | $6,000 | AR/VR, E-commerce/Retail, Machine Learning/AI | Devpost |
 | [Neural Storm](<https://neuralstorm.devpost.com>) | JNTUH | 2026-11-04 (시각 미제공) | ₹ 20,000 | Beginner Friendly, Machine Learning/AI | Devpost |
@@ -52,13 +49,16 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [EthnoHack](<https://ethnohack2026.devpost.com>) | ETHCSTWIN | 2026-11-08 (시각 미제공) | €0 | Databases, Health, Machine Learning/AI | Devpost |
 | [UXDC Designathon - 2026](<https://uxdc-designathon-2026.devpost.com>) | UXDC - Ucalgary design club | 2026-11-08 (시각 미제공) | $200 | Beginner Friendly, Design, Low/No Code | Devpost |
 | [Learn AR with SPECS](<https://learn-specs.devpost.com>) | Devpost | 2026-11-09 (시각 미제공) | $2,500 | AR/VR, Machine Learning/AI, Design | Devpost |
+| [Agentic Hackathon](<https://agentic-hackathon.devpost.com>) | Devin | 2026-11-10 (시각 미제공) | $480 | Machine Learning/AI, Open Ended, Web | Devpost |
 | [Ctrl+V Hackathon](<https://ctrl-v-hackathon-31831.devpost.com>) | ADHAYAN | 2026-11-10 (시각 미제공) | $0 | Beginner Friendly, Machine Learning/AI, Social Good | Devpost |
+| [DATANOVA 2026 GLOBAL DATA-THON](<https://datanova-2026-global-data-thon.devpost.com>) | DataNova | 2026-11-10 (시각 미제공) | $1,750 | E-commerce/Retail, Fintech, Health | Devpost |
 | [Herhack](<https://herhack.devpost.com>) | Echelon institute of technology | 2026-11-10 (시각 미제공) | ₹ 200,000 | Beginner Friendly, Blockchain, Open Ended | Devpost |
 | [The Atomiq Hackathon &#124; Qiskit Fall Fest 2026 at IEM](<https://atomiq-hackathon-qff-26-iem.devpost.com>) | Institute of Engineering &amp; Management | 2026-11-11 (시각 미제공) | ₹ 10,000 | Quantum | Devpost |
 | [PayPal AI Hackathon](<https://paypalaihackathon.devpost.com>) | PayPal | 2026-11-12 (시각 미제공) | $67,500 | Low/No Code, Machine Learning/AI, Web | Devpost |
 | [LPC Hacks](<https://lpc-hacks.devpost.com>) | LPCHacks | 2026-11-14 (시각 미제공) | $0 | Beginner Friendly, Machine Learning/AI, Open Ended | Devpost |
 | [DSH Hacks V2 ($100k+ in prizes!)](<https://dsh-hacks-v2.devpost.com>) | STEMise | 2026-11-15 (시각 미제공) | $0 | Beginner Friendly, Low/No Code, Open Ended | Devpost |
 | [IceHacks](<https://icehacks.devpost.com>) | CodeStarters | 2026-11-15 (시각 미제공) | $17,150 | Beginner Friendly, Low/No Code, Open Ended | Devpost |
+| [Mathematics for systems security](<https://mathematics-systems-security.devpost.com>) | Software Engineering Club (DEV) | 2026-11-15 (시각 미제공) | $0 | Communication, Cybersecurity, Machine Learning/AI | Devpost |
 | [NorCal Hacks 27](<https://norcal-hacks-27.devpost.com>) | Lynbrook Engineering Club | 2026-11-15 (시각 미제공) | $0 | Beginner Friendly, Machine Learning/AI, Social Good | Devpost |
 | [STEMergent Hacks 2026](<https://stemergent-hacks.devpost.com>) | STEMergent | 2026-11-15 (시각 미제공) | $0 | Low/No Code, Machine Learning/AI, Social Good | Devpost |
 | [UGREEN Hackathon 2026 on AI NAS](<https://ugreenhackathon.devpost.com>) | UGREEN | 2026-11-16 (시각 미제공) | $46,000 | Lifehacks, Machine Learning/AI, Productivity | Devpost |
@@ -74,22 +74,23 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [OBSCURA: Satellite AI Research Challenge](<https://obscura.devpost.com>) | BTAJI CREW | 2026-11-24 (시각 미제공) | $50 | Education, Machine Learning/AI, Social Good | Devpost |
 | [BuildyourOwnWebsite](<https://buildyourownwebsite.devpost.com>) | Roxten Studios | 2026-11-25 (시각 미제공) | ₹ 0 | Beginner Friendly, Education, Web | Devpost |
 | [Code For DFW](<https://code-for-dfw.devpost.com>) | n/a | 2026-11-25 (시각 미제공) | $0 | Open Ended, Social Good, Beginner Friendly | Devpost |
+| [HackTheFashion Global'26](<https://hackthefashion-global26.devpost.com>) | FabricVTON | 2026-11-25 (시각 미제공) | $45,000 | AR/VR, Beginner Friendly, Machine Learning/AI | Devpost |
 | [HackWithAditya](<https://hackwithaditya.devpost.com>) | Aditya University | 2026-11-25 (시각 미제공) | ₹ 500,000 | Education, Health, Machine Learning/AI | Devpost |
 | [Global AI Builder’s Challenge](<https://global-ai-builders-challenge.devpost.com>) | Refactor The World | 2026-11-28 (시각 미제공) | $0 | Machine Learning/AI | Devpost |
 | [305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app](<https://305veteransnov2026.devpost.com>) | GOOGLE DEVELOPER GROUP AT FIU | 2026-11-30 (시각 미제공) | $0 | Beginner Friendly, Cybersecurity, Education | Devpost |
 | [CSC Winter Sparkathon](<https://csc-winter-sparkathon.devpost.com>) | The Webb Schools CSC | 2026-11-30 (시각 미제공) | $100 | Beginner Friendly, Open Ended, Social Good | Devpost |
+| [#BuildHybridAI 2026](<https://firebasehybridaihackathon.devpost.com>) | Google | 2026-11-30 (시각 미제공) | $5,000 | Machine Learning/AI | Devpost |
 | [Kiroween 2026](<https://kiroween.devpost.com>) | Kiro | 2026-12-04 (시각 미제공) | $100,000 | Beginner Friendly, Machine Learning/AI, Open Ended | Devpost |
 | [AI Agents for Founders Challenge — HETIC 2026](<https://ai-agents-founders-hetic-26.devpost.com>) | HETIC | 2026-12-18 (시각 미제공) | €997 | Low/No Code, Machine Learning/AI, Productivity | Devpost |
 | [Arbiter Hacks V1](<https://arbiter-hacks-v1.devpost.com>) | Arbiter | 2026-12-21 (시각 미제공) | $7,800 | Beginner Friendly, Machine Learning/AI, Open Ended | Devpost |
-| [Cosmo Hacks 2026](<https://cosmohacks.devpost.com>) | Cosmo Hacks | 2026-12-21 (시각 미제공) | $196,955 | Beginner Friendly, Open Ended, Education | Devpost |
 | [305 CodeFest Edition December 2026 — 305Hackathons.vercel.app](<https://305codefestdec2026.devpost.com>) | COLORSTACKatFIU | 2026-12-31 (시각 미제공) | $0 | Beginner Friendly, Cybersecurity, Education | Devpost |
 | [evensonarisnord](<https://evensonarisnord.devpost.com>) | HoustonHacks2026 | 2026-12-31 (시각 미제공) | $150 | Communication, Databases | Devpost |
-| [HackTheFashion Global'26](<https://hackthefashion-global26.devpost.com>) | FabricVTON | 2026-12-31 (시각 미제공) | $45,000 | AR/VR, Beginner Friendly, Machine Learning/AI | Devpost |
 | [InnovArt 2027: Art and Technology Hack Day](<https://innovart2027.devpost.com>) | Binnovative | 2027-01-02 (시각 미제공) | $0 | Music/Art, Beginner Friendly, Open Ended | Devpost |
 | [checkpoint 1 — games for good](<https://checkpoint-1.devpost.com>) | Checkpoint | 2027-01-10 (시각 미제공) | $11,960 | Gaming, Machine Learning/AI, Social Good | Devpost |
 | [United Hacks V8](<https://unitedhacksv8.devpost.com>) | Hack United | 2027-01-10 (시각 미제공) | $13,700 | Beginner Friendly, Design, Education | Devpost |
 | [Syntax Summit](<https://syntax-summit.devpost.com>) | Student Organization | 2027-01-14 (시각 미제공) | $0 | DevOps, Machine Learning/AI, Robotic Process Automation | Devpost |
 | [Code for Humanity](<https://code-for-humanity.devpost.com>) | nill | 2027-01-15 (시각 미제공) | $0 | Education, Machine Learning/AI, Web | Devpost |
+| [Cosmo Hacks 2026](<https://cosmohacks.devpost.com>) | Cosmo Hacks | 2027-01-18 (시각 미제공) | $146,700 | Beginner Friendly, Open Ended, Education | Devpost |
 | [HackTitan](<https://hacktitan.devpost.com>) | IWU | 2027-02-04 (시각 미제공) | $10,000 | Beginner Friendly, Databases, DevOps | Devpost |
 | [AI for Human Impact: A Global BASIS Hackathon](<https://basisglobalhackathon.devpost.com>) | BASIS Independent Silicon Valley | 2027-02-13 (시각 미제공) | $10,200 | Beginner Friendly, Machine Learning/AI, Social Good | Devpost |
 | [MEGA Hackathon 2027](<https://megahackathon-27.devpost.com>) | MegaHackathonLeague | 2027-02-21 (시각 미제공) | $0 | COVID-19, Health, Beginner Friendly | Devpost |
