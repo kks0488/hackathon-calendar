@@ -16,15 +16,13 @@
 
 ## 참가 가능 해커톤
 
-> Last updated: 2026-11-02 00:48 UTC
+> Last updated: 2026-11-03 02:56 UTC
 
 온라인 참여가 가능한 행사입니다. 시각이 없는 마감은 출처의 날짜를 그대로 표시합니다.
 MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 정확한 제출 시각은 행사 링크에서 확인하세요.
 
 | 해커톤 | 주최 | 마감 (KST) | 상금 | 테마 | 출처 |
 |---|---|---|---|---|---|
-| [Codex x TwitchCon Hackathon](<https://twitchcon-codex.devpost.com>) | Twitch | 2026-11-02 (시각 미제공) | $25,000 | Communication, Gaming, Machine Learning/AI | Devpost |
-| [YouCam API Skin AI &amp; eCommerce VTO Hackathon](<https://youcam-api-skin-ai-ecommerce.devpost.com>) | Perfect Corp | 2026-11-02 (시각 미제공) | $6,000 | AR/VR, E-commerce/Retail, Machine Learning/AI | Devpost |
 | [Neural Storm](<https://neuralstorm.devpost.com>) | JNTUH | 2026-11-04 (시각 미제공) | ₹ 20,000 | Beginner Friendly, Machine Learning/AI | Devpost |
 | [Girls Who Code HHS Hackathon 2026](<https://gwchhs-hackathon-2026.devpost.com>) | Girls Who Code HHS | 2026-11-05 (시각 미제공) | $50 | Beginner Friendly, Gaming, Social Good | Devpost |
 | [Remote Control AI](<https://remote-control-ai.devpost.com>) | avacado | 2026-11-05 (시각 미제공) | $0 | Beginner Friendly | Devpost |
@@ -42,6 +40,7 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [Herhack](<https://herhack.devpost.com>) | Echelon institute of technology | 2026-11-10 (시각 미제공) | ₹ 200,000 | Beginner Friendly, Blockchain, Open Ended | Devpost |
 | [The Atomiq Hackathon &#124; Qiskit Fall Fest 2026 at IEM](<https://atomiq-hackathon-qff-26-iem.devpost.com>) | Institute of Engineering &amp; Management | 2026-11-11 (시각 미제공) | ₹ 10,000 | Quantum | Devpost |
 | [PayPal AI Hackathon](<https://paypalaihackathon.devpost.com>) | PayPal | 2026-11-12 (시각 미제공) | $67,500 | Low/No Code, Machine Learning/AI, Web | Devpost |
+| [CIVIC Hack 2026](<https://civic-hack-2026.devpost.com>) | Future Cities Institute | 2026-11-14 (시각 미제공) | $CAD 1,500 | Beginner Friendly, Machine Learning/AI, Social Good | Devpost |
 | [LPC Hacks](<https://lpc-hacks.devpost.com>) | LPCHacks | 2026-11-14 (시각 미제공) | $0 | Beginner Friendly, Machine Learning/AI, Open Ended | Devpost |
 | [DSH Hacks V2 ($100k+ in prizes!)](<https://dsh-hacks-v2.devpost.com>) | STEMise | 2026-11-15 (시각 미제공) | $0 | Beginner Friendly, Low/No Code, Open Ended | Devpost |
 | [IceHacks](<https://icehacks.devpost.com>) | CodeStarters | 2026-11-15 (시각 미제공) | $17,150 | Beginner Friendly, Low/No Code, Open Ended | Devpost |
@@ -70,7 +69,9 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [#BuildHybridAI 2026](<https://firebasehybridaihackathon.devpost.com>) | Google | 2026-11-30 (시각 미제공) | $10,000 | Machine Learning/AI | Devpost |
 | [ML Empowerment Build Challenge 4.0](<https://ml-build-challenge-4.devpost.com>) | ML Empowerment Foundation | 2026-12-02 (시각 미제공) | $0 | Beginner Friendly, Machine Learning/AI, Social Good | Devpost |
 | [Kiroween 2026](<https://kiroween.devpost.com>) | Kiro | 2026-12-04 (시각 미제공) | $100,000 | Beginner Friendly, Machine Learning/AI, Open Ended | Devpost |
+| [AWS MSP AI Hackathon](<https://aws-agentic-msp.devpost.com>) | AWS | 2026-12-11 (시각 미제공) | $64,000 | Machine Learning/AI, Productivity, Web | Devpost |
 | [BUILD 4 ALL](<https://build4all.devpost.com>) | CS4ALL | 2026-12-12 (시각 미제공) | $0 | Beginner Friendly, Education, Machine Learning/AI | Devpost |
+| [QNX Global Hackathon](<https://qnx.devpost.com>) | QNX | 2026-12-15 (시각 미제공) | $50,000 | IoT, Machine Learning/AI, Open Ended | Devpost |
 | [AI Agents for Founders Challenge — HETIC 2026](<https://ai-agents-founders-hetic-26.devpost.com>) | HETIC | 2026-12-18 (시각 미제공) | €997 | Low/No Code, Machine Learning/AI, Productivity | Devpost |
 | [Arbiter Hacks V1](<https://arbiter-hacks-v1.devpost.com>) | Arbiter | 2026-12-21 (시각 미제공) | $7,800 | Beginner Friendly, Machine Learning/AI, Open Ended | Devpost |
 | [Codegeist 2026: Build with context. Ship with confidence.](<https://codegeist2026.devpost.com>) | Atlassian | 2026-12-22 (시각 미제공) | $120,000 | Machine Learning/AI, Enterprise, Productivity | Devpost |
