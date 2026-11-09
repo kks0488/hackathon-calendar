@@ -1,71 +1,5 @@
 [
   {
-    "id": "82b77352762012927cc6a18e",
-    "title": "EthnoHack",
-    "organizer": "ETHCSTWIN",
-    "url": "https://ethnohack2026.devpost.com",
-    "start": "2026-11-02",
-    "deadline": "2026-11-08",
-    "prize": "€8,000",
-    "themes": [
-      "Databases",
-      "Health",
-      "Machine Learning/AI"
-    ],
-    "format": "online",
-    "source": "Devpost",
-    "open_state": "open",
-    "registrations_count": 386
-  },
-  {
-    "id": "fdb147be50e5edf01b81ce1a",
-    "title": "GullHacks",
-    "organizer": "Salisbury University",
-    "url": "https://gullhacks2026.devpost.com",
-    "start": "2026-11-07",
-    "deadline": "2026-11-08",
-    "prize": "$0",
-    "themes": [
-      "Beginner Friendly",
-      "Education",
-      "Social Good"
-    ],
-    "format": "online",
-    "source": "Devpost",
-    "open_state": "open",
-    "registrations_count": 40
-  },
-  {
-    "id": "afb3970861045767d88d034e",
-    "title": "UXDC Designathon - 2026",
-    "organizer": "UXDC - Ucalgary design club",
-    "url": "https://uxdc-designathon-2026.devpost.com",
-    "start": "2026-11-07",
-    "deadline": "2026-11-08",
-    "prize": "$200",
-    "themes": [
-      "Beginner Friendly",
-      "Design",
-      "Low/No Code"
-    ],
-    "format": "online",
-    "source": "Devpost",
-    "open_state": "open",
-    "registrations_count": 62
-  },
-  {
-    "id": "f0e3532ce18eeb2c49ecdd54",
-    "title": "Solana Hackathon",
-    "organizer": "Major League Hacking",
-    "url": "https://events.mlh.com/events/15200-solana-hackathon",
-    "start": "2026-11-06T01:11:11Z",
-    "deadline": "2026-11-08T23:59:59Z",
-    "prize": "",
-    "themes": [],
-    "format": "online",
-    "source": "MLH"
-  },
-  {
     "id": "86e2ffb7ccaee0e7d39d9f5c",
     "title": "Learn AR with SPECS",
     "organizer": "Devpost",
@@ -81,7 +15,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 1188
+    "registrations_count": 1209
   },
   {
     "id": "780d5b34d4356f12d3c6f355",
@@ -99,7 +33,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 219
+    "registrations_count": 231
   },
   {
     "id": "64ee4499144bf6128b7a562a",
@@ -117,7 +51,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 114
+    "registrations_count": 150
   },
   {
     "id": "602fc6584e9f775a1c8ab52c",
@@ -135,7 +69,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 122
+    "registrations_count": 133
   },
   {
     "id": "a174f8a246a4107900174d0f",
@@ -153,7 +87,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 242
+    "registrations_count": 248
   },
   {
     "id": "dbff915e522c69603200fcc7",
@@ -169,7 +103,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 32
+    "registrations_count": 46
   },
   {
     "id": "2bb2269d0c63f5dfb204423c",
@@ -185,7 +119,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 102
+    "registrations_count": 103
   },
   {
     "id": "d52d84bbbd29cccf1cfc65f0",
@@ -203,7 +137,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 30487
+    "registrations_count": 31356
   },
   {
     "id": "bd87bb4f8f4388820dd24dbf",
@@ -221,7 +155,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 34
+    "registrations_count": 47
   },
   {
     "id": "3af291f96219efc2d22d35be",
@@ -242,6 +176,22 @@
     "registrations_count": 2
   },
   {
+    "id": "2141abf7a0a32ca7643ad2c8",
+    "title": "DataJam 2026",
+    "organizer": "SFU Data Science Student Society",
+    "url": "https://datajam-2026.devpost.com",
+    "start": "2026-11-09",
+    "deadline": "2026-11-15",
+    "prize": "$0",
+    "themes": [
+      "Beginner Friendly"
+    ],
+    "format": "online",
+    "source": "Devpost",
+    "open_state": "upcoming",
+    "registrations_count": 0
+  },
+  {
     "id": "f5d65a35204bda59498b1e37",
     "title": "DSH Hacks V2 ($100k+ in prizes!)",
     "organizer": "STEMise",
@@ -257,7 +207,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 1075
+    "registrations_count": 1087
   },
   {
     "id": "202efaa6bc29ee2178bbe3a4",
@@ -275,7 +225,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 308
+    "registrations_count": 354
   },
   {
     "id": "defc91f3fce8dd01f055e73e",
@@ -293,7 +243,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 187
+    "registrations_count": 194
   },
   {
     "id": "b6a3e82b8b79fa0819dfb5f7",
@@ -311,7 +261,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 30
+    "registrations_count": 35
   },
   {
     "id": "8ec8d029abd255cb7514db4d",
@@ -329,7 +279,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 263
+    "registrations_count": 268
   },
   {
     "id": "79f38ff746a5c544e7340ede",
@@ -347,7 +297,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 1583
+    "registrations_count": 1745
   },
   {
     "id": "d2f7178ea5d4ec76f24077f9",
@@ -364,7 +314,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 172
+    "registrations_count": 177
   },
   {
     "id": "8f10e74e67c533c51435ccb9",
@@ -382,7 +332,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 5413
+    "registrations_count": 5492
   },
   {
     "id": "769f33c95e341d31bac9b9fa",
@@ -416,7 +366,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 202
+    "registrations_count": 212
   },
   {
     "id": "fcb332a9e04d7526be82b1b9",
@@ -434,7 +384,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 182
+    "registrations_count": 191
   },
   {
     "id": "8d331de0016a62dae95c8f91",
@@ -451,7 +401,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 466
+    "registrations_count": 481
   },
   {
     "id": "c1ce095990609636e5f0947f",
@@ -469,7 +419,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 66
+    "registrations_count": 69
   },
   {
     "id": "44d8f512c87694f978d26a04",
@@ -487,7 +437,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 390
+    "registrations_count": 403
   },
   {
     "id": "a779bf373f067da18ddcbe57",
@@ -505,7 +455,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 32
+    "registrations_count": 36
   },
   {
     "id": "39f41293293682c5406ebec0",
@@ -523,7 +473,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 0
+    "registrations_count": 2
   },
   {
     "id": "14e918eb576d3236597bee7c",
@@ -541,7 +491,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 25
+    "registrations_count": 26
   },
   {
     "id": "b9c6e3207054f1843af91ad8",
@@ -559,7 +509,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 338
+    "registrations_count": 347
   },
   {
     "id": "01b48623e6c9ac5b7f8eb4f7",
@@ -577,7 +527,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 57
+    "registrations_count": 60
   },
   {
     "id": "e21830a2f01b13d8571265a7",
@@ -594,7 +544,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 213
+    "registrations_count": 214
   },
   {
     "id": "44a0980aec8682f923ba4762",
@@ -612,7 +562,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 69
+    "registrations_count": 71
   },
   {
     "id": "434cca66f960eb7ed21a9c5e",
@@ -630,7 +580,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 28
+    "registrations_count": 29
   },
   {
     "id": "527ab5fffdcaf6f5d94c0e04",
@@ -648,7 +598,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 146
+    "registrations_count": 168
   },
   {
     "id": "f3793b1450a216b03bfab526",
@@ -666,7 +616,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 149
+    "registrations_count": 155
   },
   {
     "id": "9da1180664daa89d872ad122",
@@ -684,7 +634,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 399
+    "registrations_count": 411
   },
   {
     "id": "0fdee1a85856dd4b4e7b924a",
@@ -700,7 +650,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 147
+    "registrations_count": 157
   },
   {
     "id": "dd5fef6c002c434621b00b05",
@@ -718,7 +668,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 32
+    "registrations_count": 33
   },
   {
     "id": "148f24ccba72bd7a9eab9015",
@@ -736,7 +686,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 128
+    "registrations_count": 132
   },
   {
     "id": "3cc5bd0a5b326c4945514c0b",
@@ -754,7 +704,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 969
+    "registrations_count": 1064
   },
   {
     "id": "7ec0b39ba9a7f5c64133767c",
@@ -790,7 +740,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 32
+    "registrations_count": 43
   },
   {
     "id": "e5a1d6863850bc8f39f15bcc",
@@ -808,7 +758,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 99
+    "registrations_count": 102
   },
   {
     "id": "968853e5b86afc30da17bb74",
@@ -826,7 +776,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 26
+    "registrations_count": 36
   },
   {
     "id": "e62d597538053b8e049cfb0b",
@@ -844,7 +794,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 10142
+    "registrations_count": 10451
   },
   {
     "id": "66edc59b359aa1183953d749",
@@ -862,7 +812,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 49
+    "registrations_count": 82
   },
   {
     "id": "5444d1f87d4c0eeb16151948",
@@ -880,7 +830,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 50
+    "registrations_count": 54
   },
   {
     "id": "09a69531a107a5b270a9b83f",
@@ -898,7 +848,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 201
+    "registrations_count": 215
   },
   {
     "id": "078a8d38c59d019a26bf6e06",
@@ -934,7 +884,25 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 750
+    "registrations_count": 861
+  },
+  {
+    "id": "d6c4d8d75d5b64896c10d512",
+    "title": "Silicon Valley Buildathon",
+    "organizer": "Silicon Hacks Team",
+    "url": "https://silicon-valley-buildathon.devpost.com",
+    "start": "2026-11-08",
+    "deadline": "2026-12-15",
+    "prize": "$500",
+    "themes": [
+      "Open Ended",
+      "Beginner Friendly",
+      "Low/No Code"
+    ],
+    "format": "online",
+    "source": "Devpost",
+    "open_state": "open",
+    "registrations_count": 0
   },
   {
     "id": "1165dd39e94bda56f00103a3",
@@ -952,7 +920,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 239
+    "registrations_count": 257
   },
   {
     "id": "9d9e35f4dede5fccf34445ed",
@@ -970,7 +938,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 936
+    "registrations_count": 962
   },
   {
     "id": "301fb37117d5825cf7315712",
@@ -988,7 +956,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 2128
+    "registrations_count": 2302
   },
   {
     "id": "85957e241fb8026bbcfbae9f",
@@ -1006,7 +974,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 11
+    "registrations_count": 15
   },
   {
     "id": "b20b8891c17ea0d3b42cdd39",
@@ -1024,7 +992,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 188
+    "registrations_count": 202
   },
   {
     "id": "e9e92f3f495c97a548df54b0",
@@ -1059,7 +1027,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 127
+    "registrations_count": 128
   },
   {
     "id": "af8af0b8b82c70cde8a12578",
@@ -1077,7 +1045,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 318
+    "registrations_count": 321
   },
   {
     "id": "c5d04e3c1adc0f703658b5b2",
@@ -1095,7 +1063,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 79
+    "registrations_count": 83
   },
   {
     "id": "faf567213826d10e522458bb",
@@ -1113,7 +1081,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 380
+    "registrations_count": 385
   },
   {
     "id": "d6bca307c5772604863fad51",
@@ -1149,7 +1117,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 818
+    "registrations_count": 825
   },
   {
     "id": "e77bb013b884f3b97889dde7",
@@ -1167,7 +1135,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 805
+    "registrations_count": 827
   },
   {
     "id": "75a228e19f6465ddb7ef5540",
@@ -1203,7 +1171,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "open",
-    "registrations_count": 15
+    "registrations_count": 18
   },
   {
     "id": "9124753b17711638cc8cc3c4",
@@ -1221,7 +1189,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 215
+    "registrations_count": 217
   },
   {
     "id": "229a7f70e5d2663d213abb05",
@@ -1257,7 +1225,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 10
+    "registrations_count": 11
   },
   {
     "id": "2d7f6f88850c2425c91717bb",
@@ -1293,7 +1261,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 68
+    "registrations_count": 70
   },
   {
     "id": "914353ec8a314f7f9587b2f6",
@@ -1311,7 +1279,7 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 23
+    "registrations_count": 29
   },
   {
     "id": "49fe87b87385583ff2f03a1a",
@@ -1364,6 +1332,6 @@
     "format": "online",
     "source": "Devpost",
     "open_state": "upcoming",
-    "registrations_count": 87
+    "registrations_count": 88
   }
 ]
