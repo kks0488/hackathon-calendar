@@ -16,14 +16,13 @@
 
 ## 참가 가능 해커톤
 
-> Last updated: 2026-11-13 01:53 UTC
+> Last updated: 2026-11-14 01:28 UTC
 
 온라인 참여가 가능한 행사입니다. 시각이 없는 마감은 출처의 날짜를 그대로 표시합니다.
 MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 정확한 제출 시각은 행사 링크에서 확인하세요.
 
 | 해커톤 | 주최 | 마감 (KST) | 상금 | 테마 | 출처 |
 |---|---|---|---|---|---|
-| [CIVIC Hack 2026](<https://civic-hack-2026.devpost.com>) | Future Cities Institute | 2026-11-14 (시각 미제공) | $CAD 1,500 | Beginner Friendly, Machine Learning/AI, Social Good | Devpost |
 | [LPC Hacks](<https://lpc-hacks.devpost.com>) | LPCHacks | 2026-11-14 (시각 미제공) | $0 | Beginner Friendly, Machine Learning/AI, Open Ended | Devpost |
 | [DataJam 2026](<https://datajam-2026.devpost.com>) | SFU Data Science Student Society | 2026-11-15 (시각 미제공) | $0 | Beginner Friendly | Devpost |
 | [DSH Hacks V2 ($100k+ in prizes!)](<https://dsh-hacks-v2.devpost.com>) | STEMise | 2026-11-15 (시각 미제공) | $0 | Beginner Friendly, Low/No Code, Open Ended | Devpost |
@@ -61,6 +60,7 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [AI for Medicine: A Global Student Hackathon on the Future of Care](<https://ai-for-medicine.devpost.com>) | Open Health AI Collective | 2026-12-04 (시각 미제공) | $0 | Beginner Friendly, Health, Machine Learning/AI | Devpost |
 | [Kiroween 2026](<https://kiroween.devpost.com>) | Kiro | 2026-12-04 (시각 미제공) | $100,000 | Beginner Friendly, Machine Learning/AI, Open Ended | Devpost |
 | [LaunchPad Hacks (Judges + Sponsors Needed)](<https://launchpad-hacks.devpost.com>) | Hack4TodayOrg | 2026-12-04 (시각 미제공) | $300 | Beginner Friendly, Open Ended | Devpost |
+| [NeuroHack Fall 2026 - Rewiring Pathways: Innovative Neuroscience](<https://neurohack-fall-2026.devpost.com>) | NeuroTech@UIUC | 2026-12-06 (시각 미제공) | $0 | Beginner Friendly, Machine Learning/AI, Social Good | Devpost |
 | [Deck the Pixels](<https://deckthepixels.devpost.com>) | Google | 2026-12-07 (시각 미제공) | $25,000 | Design, Machine Learning/AI, Low/No Code | Devpost |
 | [Learn AR with SPECS](<https://learn-specs.devpost.com>) | Devpost | 2026-12-07 (시각 미제공) | $2,500 | AR/VR, Design, Machine Learning/AI | Devpost |
 | [SLAY HACKS](<https://slayy-hacks.devpost.com>) | cite &amp; slayy | 2026-12-07 (시각 미제공) | $4,500 | Beginner Friendly, Open Ended, Machine Learning/AI | Devpost |
