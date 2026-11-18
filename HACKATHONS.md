@@ -16,17 +16,18 @@
 
 ## 참가 가능 해커톤
 
-> Last updated: 2026-11-17 03:57 UTC
+> Last updated: 2026-11-18 02:56 UTC
 
 온라인 참여가 가능한 행사입니다. 시각이 없는 마감은 출처의 날짜를 그대로 표시합니다.
 MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 정확한 제출 시각은 행사 링크에서 확인하세요.
 
 | 해커톤 | 주최 | 마감 (KST) | 상금 | 테마 | 출처 |
 |---|---|---|---|---|---|
-| [Fall 2026 Projects](<https://fall-2026-projects.devpost.com>) | PRODUCT@TAMU | 2026-11-17 (시각 미제공) | $0 | Low/No Code | Devpost |
 | [Meta VR Start Developer Competition 2026](<https://start-developer-competition-26.devpost.com>) | Meta | 2026-11-18 (시각 미제공) | $1,000,000 | AR/VR, Machine Learning/AI, Web | Devpost |
 | [WQCC Qiskit Fall Fest 2026](<https://wqcc-qiskit-fall-fest-2026.devpost.com>) | Wisconsin Quantum Computing Club | 2026-11-19 (시각 미제공) | $0 | Quantum | Devpost |
 | [Dakar Bitcoin Hack by BTrust](<https://dakar-bitcoin-hack-2026.devpost.com>) | Dakar Bitcoin Days | 2026-11-20 (시각 미제공) | $900 | Blockchain, Fintech, Machine Learning/AI | Devpost |
+| [AI@UCF Semester Sprint](<https://semester-sprint.devpost.com>) | AI@ucf | 2026-11-20 (시각 미제공) | $0 | Machine Learning/AI | Devpost |
+| [SMBP FinHack](<https://smbp-finhack.devpost.com>) | Small Money, Big Plan | 2026-11-20 (시각 미제공) | $0 | Beginner Friendly, Fintech, Open Ended | Devpost |
 | [Game On Night – Imagine the Impossible](<https://game-on-night.devpost.com>) | Google Student Ambassador | 2026-11-21 (시각 미제공) | $0 | Design | Devpost |
 | [Bridge The Gap Hacks](<https://sq-hacks.devpost.com>) | Bridge The Gap Hacks | 2026-11-21 (시각 미제공) | $0 | Beginner Friendly, Machine Learning/AI, Social Good | Devpost |
 | [STEM2Connect AI Hackathon](<https://stem2connect-online-hackathon.devpost.com>) | STEM2Connect | 2026-11-21 (시각 미제공) | $0 | Beginner Friendly, Education, Web | Devpost |
@@ -67,7 +68,7 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [Silicon Valley Buildathon](<https://silicon-valley-buildathon.devpost.com>) | Silicon Hacks Team | 2026-12-15 (시각 미제공) | $500 | Open Ended, Beginner Friendly, Low/No Code | Devpost |
 | [Arioron Think 2026](<https://arioron-think-2026.devpost.com>) | Arioron | 2026-12-17 (시각 미제공) | $0 | Beginner Friendly, Education, Social Good | Devpost |
 | [AI Agents for Founders Challenge — HETIC 2026](<https://ai-agents-founders-hetic-26.devpost.com>) | HETIC | 2026-12-18 (시각 미제공) | €1,000 | Low/No Code, Machine Learning/AI, Productivity | Devpost |
-| [Ryze Hacks 2026](<https://ryzehacks.devpost.com>) | ryze | 2026-12-18 (시각 미제공) | $0 | Education | Devpost |
+| [Ryze Hacks 2026](<https://ryzehacks.devpost.com>) | ryze | 2026-12-18 (시각 미제공) | $3,260 | Education | Devpost |
 | [AccessED Hacks](<https://accessed-hacks.devpost.com>) | AccessEDnpo | 2026-12-20 (시각 미제공) | $225 | Beginner Friendly, Education, Social Good | Devpost |
 | [OVO Hack 48](<https://ovo-hack-48.devpost.com>) | Ovo Talent | 2026-12-20 (시각 미제공) | $0 | Beginner Friendly, Machine Learning/AI, Productivity | Devpost |
 | [Arbiter Hacks V1](<https://arbiter-hacks-v1.devpost.com>) | Arbiter | 2026-12-21 (시각 미제공) | $7,800 | Beginner Friendly, Machine Learning/AI, Open Ended | Devpost |
@@ -80,6 +81,7 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [checkpoint 1 — games for good](<https://checkpoint-1.devpost.com>) | Checkpoint | 2027-01-10 (시각 미제공) | $11,960 | Gaming, Machine Learning/AI, Social Good | Devpost |
 | [United Hacks V8](<https://unitedhacksv8.devpost.com>) | Hack United | 2027-01-10 (시각 미제공) | $18,700 | Beginner Friendly, Design, Education | Devpost |
 | [Open Agentic Web Challenge](<https://cognizant-agenticweb.devpost.com>) | Cognizant | 2027-01-11 (시각 미제공) | $10,000 | Machine Learning/AI, Web, Social Good | Devpost |
+| [Cloud9 x JetBrains: Sky's The Limit Hackathon 2026](<https://cloud9.devpost.com>) | Cloud9 | 2027-01-12 (시각 미제공) | $25,000 | Databases, Gaming, Machine Learning/AI | Devpost |
 | [Syntax Summit](<https://syntax-summit.devpost.com>) | Student Organization | 2027-01-14 (시각 미제공) | $0 | DevOps, Machine Learning/AI, Robotic Process Automation | Devpost |
 | [Code for Humanity](<https://code-for-humanity.devpost.com>) | nill | 2027-01-15 (시각 미제공) | $0 | Education, Machine Learning/AI, Web | Devpost |
 | [Syntax Hacks 2026](<https://syntax-hacks-2026.devpost.com>) | Syntax Hacks Team | 2027-01-17 (시각 미제공) | $0 | Open Ended | Devpost |
@@ -91,6 +93,7 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [AI for Human Impact: A Global BASIS Hackathon](<https://basisglobalhackathon.devpost.com>) | BASIS Independent Silicon Valley | 2027-02-13 (시각 미제공) | $10,200 | Beginner Friendly, Machine Learning/AI, Social Good | Devpost |
 | [Teens in AI Global Challenge 2027](<https://teens-in-ai.devpost.com>) | Teens in AI | 2027-02-15 (시각 미제공) | $0 | Databases, Web, Beginner Friendly | Devpost |
 | [MEGA Hackathon 2027](<https://megahackathon-27.devpost.com>) | MegaHackathonLeague | 2027-02-21 (시각 미제공) | $0 | COVID-19, Health, Beginner Friendly | Devpost |
+| [Launchly Project Sprint](<https://launchlyp.devpost.com>) | Launchly | 2027-02-24 (시각 미제공) | $1,500 | Beginner Friendly, Open Ended, Social Good | Devpost |
 | [WiCS Hackathon](<https://wics-hackathon.devpost.com>) | MLH | 2027-03-02 (시각 미제공) | $0 | Beginner Friendly, Design, Education | Devpost |
 | [Build Beyond Hackathon](<https://build-beyond.devpost.com>) | OSC | 2027-03-15 (시각 미제공) | $5,000 | Beginner Friendly, Open Ended, Productivity | Devpost |
 | [GNEC Hackathon 2027 Winter - Compete For UN-Affiliated/NGO Internships &amp; Prizes](<https://gnec-hackathon-2027-winter.devpost.com>) | Global NGO Executive Committee | 2027-03-26 (시각 미제공) | $700 | Beginner Friendly, Education, Social Good | Devpost |
