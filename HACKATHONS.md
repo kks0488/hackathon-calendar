@@ -16,16 +16,13 @@
 
 ## 참가 가능 해커톤
 
-> Last updated: 2026-11-20 02:22 UTC
+> Last updated: 2026-11-21 02:24 UTC
 
 온라인 참여가 가능한 행사입니다. 시각이 없는 마감은 출처의 날짜를 그대로 표시합니다.
 MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 정확한 제출 시각은 행사 링크에서 확인하세요.
 
 | 해커톤 | 주최 | 마감 (KST) | 상금 | 테마 | 출처 |
 |---|---|---|---|---|---|
-| [Dakar Bitcoin Hack by BTrust](<https://dakar-bitcoin-hack-2026.devpost.com>) | Dakar Bitcoin Days | 2026-11-20 (시각 미제공) | $900 | Blockchain, Fintech, Machine Learning/AI | Devpost |
-| [AI@UCF Semester Sprint](<https://semester-sprint.devpost.com>) | AI@ucf | 2026-11-20 (시각 미제공) | $0 | Machine Learning/AI | Devpost |
-| [SMBP FinHack](<https://smbp-finhack.devpost.com>) | Small Money, Big Plan | 2026-11-20 (시각 미제공) | $0 | Beginner Friendly, Fintech, Open Ended | Devpost |
 | [Creators AI Winter Challenge](<https://creators-ai-winter-challenge.devpost.com>) | Creators AI | 2026-11-21 (시각 미제공) | $0 | Enterprise, Fintech, Productivity | Devpost |
 | [Game On Night – Imagine the Impossible](<https://game-on-night.devpost.com>) | Google Student Ambassador | 2026-11-21 (시각 미제공) | $0 | Design | Devpost |
 | [Bridge The Gap Hacks](<https://sq-hacks.devpost.com>) | Bridge The Gap Hacks | 2026-11-21 (시각 미제공) | $0 | Beginner Friendly, Machine Learning/AI, Social Good | Devpost |
@@ -37,7 +34,9 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [Taskforge](<https://taskforge.devpost.com>) | HackathonForEveryone | 2026-11-24 (시각 미제공) | $0 | Beginner Friendly, Quantum | Devpost |
 | [BuildyourOwnWebsite](<https://buildyourownwebsite.devpost.com>) | Roxten Studios | 2026-11-25 (시각 미제공) | ₹ 0 | Beginner Friendly, Education, Web | Devpost |
 | [HackWithAditya](<https://hackwithaditya.devpost.com>) | Aditya University | 2026-11-25 (시각 미제공) | ₹ 500,000 | Education, Health, Machine Learning/AI | Devpost |
+| [STEM Innovation Challenge 2026](<https://stem-innovation-challenge-2026.devpost.com>) | Global STEM Innovation Initiative | 2026-11-25 (시각 미제공) | $100 | Beginner Friendly, Open Ended, Social Good | Devpost |
 | [Build Your First AI App](<https://build-your-first-ai-app.devpost.com>) | Yasir Insights | 2026-11-27 (시각 미제공) | $0 | Education, Machine Learning/AI, Web | Devpost |
+| [SMBP FinHack](<https://smbp-finhack.devpost.com>) | Small Money, Big Plan | 2026-11-27 (시각 미제공) | $0 | Beginner Friendly, Fintech, Open Ended | Devpost |
 | [Global AI Builder’s Challenge](<https://global-ai-builders-challenge.devpost.com>) | Refactor The World | 2026-11-28 (시각 미제공) | $0 | Machine Learning/AI | Devpost |
 | [305 Veterans Hackathon Edition November 2026 — 305Hackathons.vercel.app](<https://305veteransnov2026.devpost.com>) | GOOGLE DEVELOPER GROUP AT FIU | 2026-11-30 (시각 미제공) | $0 | Beginner Friendly, Cybersecurity, Education | Devpost |
 | [Code For DFW](<https://code-for-dfw.devpost.com>) | n/a | 2026-11-30 (시각 미제공) | $0 | Open Ended, Social Good, Beginner Friendly | Devpost |
@@ -58,7 +57,7 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [Green Shift Hacks](<https://green-shift-hacks.devpost.com>) | HackathonForEveryone | 2026-12-10 (시각 미제공) | $125 | Beginner Friendly, Social Good | Devpost |
 | [Peninsula Innovation Hackathon](<https://peninsula-innovation-hackathon.devpost.com>) | bayhacks | 2026-12-10 (시각 미제공) | $0 | Beginner Friendly, Open Ended | Devpost |
 | [AWS MSP AI Hackathon](<https://aws-agentic-msp.devpost.com>) | AWS | 2026-12-11 (시각 미제공) | $64,000 | Machine Learning/AI, Productivity, Web | Devpost |
-| [FRONTIER//26](<https://frontier26.devpost.com>) | LoveHack | 2026-12-11 (시각 미제공) | $0 | Machine Learning/AI | Devpost |
+| [FRONTIER//26](<https://frontier26.devpost.com>) | LoveHack | 2026-12-11 (시각 미제공) | $0 | Machine Learning/AI, Beginner Friendly, Low/No Code | Devpost |
 | [Relate by Neo4j Hackathon](<https://relate.devpost.com>) | Neo4j | 2026-12-11 (시각 미제공) | $0 | Databases, Machine Learning/AI, Productivity | Devpost |
 | [BUILD 4 ALL](<https://build4all.devpost.com>) | CS4ALL | 2026-12-12 (시각 미제공) | $0 | Beginner Friendly, Education, Machine Learning/AI | Devpost |
 | [InnovateHER Hackathon: Girls Who Code](<https://hackathon-girls-who-code.devpost.com>) | Girls Who Code | 2026-12-13 (시각 미제공) | $0 | Beginner Friendly, Open Ended, Social Good | Devpost |
@@ -85,7 +84,7 @@ MLH는 행사 종료 시각을 마감으로 사용합니다. 참가 자격과 �
 | [Syntax Summit](<https://syntax-summit.devpost.com>) | Student Organization | 2027-01-14 (시각 미제공) | $0 | DevOps, Machine Learning/AI, Robotic Process Automation | Devpost |
 | [Code for Humanity](<https://code-for-humanity.devpost.com>) | nill | 2027-01-15 (시각 미제공) | $0 | Education, Machine Learning/AI, Web | Devpost |
 | [Syntax Hacks 2026](<https://syntax-hacks-2026.devpost.com>) | Syntax Hacks Team | 2027-01-17 (시각 미제공) | $0 | Open Ended | Devpost |
-| [Cosmo Hacks 2026](<https://cosmohacks.devpost.com>) | Cosmo Hacks | 2027-01-18 (시각 미제공) | $146,770 | Beginner Friendly, Open Ended, Education | Devpost |
+| [Cosmo Hacks 2026](<https://cosmohacks.devpost.com>) | Cosmo Hacks | 2027-01-18 (시각 미제공) | $146,805 | Beginner Friendly, Open Ended, Education | Devpost |
 | [unihacks](<https://unihacks-youth.devpost.com>) | VidOpt LLC | 2027-01-25 (시각 미제공) | $0 | Beginner Friendly, Education, Social Good | Devpost |
 | [HACKRISE'26](<https://hackrise-26.devpost.com>) | Mulearn MBCCET | 2027-01-31 (시각 미제공) | ₹ 1,000 | DevOps, Machine Learning/AI, Web | Devpost |
 | [HackOut! 2027](<https://hackout-branchout.devpost.com>) | BranchOut! | 2027-02-01 (시각 미제공) | $3,000 | Quantum, Beginner Friendly, Social Good | Devpost |
